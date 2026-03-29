@@ -1,0 +1,45 @@
+#include "headers.hpp"
+BatsmanData bats[NUM_PLAYERS];
+FielderData field[NUM_PLAYERS];
+int state = -1;
+int score = 0;
+int wickets = 0;
+int striker = 0;
+int non_striker = 1;
+int cur_over = 0;
+int legal_ball = 0;
+int cur_bowler = -1;
+int chase_target = 0;
+int local_striker = 0;
+int local_non_striker = 0;
+int sim_tick = 0;
+int gantt_n = 0;
+bool runout_initiated=false;
+bool striker_running_done=false;
+bool non_striker_running_done=false;
+bool striker_ready = false;
+bool non_striker_ready = false;
+bool innings_done = false;
+Outcome umpire_decision = DEFAULT;
+GanttEntry gantt[MAX_GANTT];
+pthread_mutex_t state_mx = PTHREAD_MUTEX_INITIALIZER;
+pthread_mutex_t gantt_mx = PTHREAD_MUTEX_INITIALIZER;
+pthread_cond_t fielder_cv = PTHREAD_COND_INITIALIZER;
+pthread_cond_t batsman_cv = PTHREAD_COND_INITIALIZER;
+pthread_cond_t bowler_cv = PTHREAD_COND_INITIALIZER;
+pthread_cond_t umpire_cv = PTHREAD_COND_INITIALIZER;
+dispatch_semaphore_t crease_sm;
+dispatch_semaphore_t crease0_sm;
+dispatch_semaphore_t crease1_sm;
+
+std::vector<std::vector<std::string>> data;
+std::vector<BallEvent> innings_log;
+
+std::chrono::high_resolution_clock::time_point start;
+std::chrono::high_resolution_clock::time_point end;
+std::chrono::milliseconds duration;
+dispatch_semaphore_t sem_A;
+dispatch_semaphore_t sem_B;
+std::vector<Edge> rag;
+pthread_mutex_t rag_mutex = PTHREAD_MUTEX_INITIALIZER;
+bool runout_flag = false;
