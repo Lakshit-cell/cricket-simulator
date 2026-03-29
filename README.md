@@ -163,6 +163,12 @@ Batting order follows **FCFS** (First Come, First Served) by default — batsmen
 ## 👥 Team
 
 Built as part of **CSC-204 Operating Systems** coursework.
+Group 12
+Adi Jain 24114003
+Ainesh Kumar Das 24114008
+Atishay Jain 24114018
+Dakshit Tanay 24114030
+Lakshit Jain 24114055
 
 ---
 
