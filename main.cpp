@@ -33,7 +33,7 @@ void init_bowling_team(const char* names[]) {
                                          .balls_bowled = 0,
                                          .runs_given = 0,
                                          .wickets = 0,
-                                         .priority = ((i == 1) ? 8 : ((i == 0) ? 10 : 5)),
+                                         .priority = ((i == 2) ? 10 : ((i == 0) ? 8 : 5)),
                                          .rnseed = (unsigned int)(_ts.tv_nsec ^ (unsigned)i * 2246822519u)};
                 strncpy(field[i].name, names[i], 31);
         }
@@ -170,7 +170,7 @@ int main(void) {
 
 
         const char* india_bowl[NUM_PLAYERS] = {
-            "Mohammed Siraj", "Jasprit Bumrah",   "Arshdeep Singh", "Hardik Pandya", "Ravindra Jadeja", "Rohit Sharma",
+            "Mohammed Siraj", "Arshdeep Singh",   "Jasprit Bumrah", "Hardik Pandya", "Ravindra Jadeja", "Rohit Sharma",
             "Virat Kohli",    "Suryakumar Yadav", "KL Rahul",       "MS Dhoni(WK)",  "Axar Patel"};
         const char* aus_bowl[NUM_PLAYERS] = {"Pat Cummins",   "Mitchell Starc", "Josh Hazlewood",  "Adam Zampa",
                                              "Glenn Maxwell", "Marcus Stoinis", "Tim David",       "David Warner",

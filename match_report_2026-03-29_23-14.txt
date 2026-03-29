@@ -1,0 +1,1480 @@
+
+============================================================
+  INNINGS START: Australia (1st INNINGS)
+============================================================
+============================================================
+                  FULL MATCH REPORT
+============================================================
+
+                BATTING SCORECARD                 
+┌──────────────────┬────────┬─────────┬──────────┐
+│       Name       │  Runs  │  Balls  │   S/R    │
+├──────────────────┼────────┼─────────┼──────────┤
+│   Travis Head    │   10   │   18    │  55.56   │
+│   David Warner   │   40   │   24    │  166.67  │
+│  Glenn Maxwell   │   37   │   18    │  205.56  │
+│  Marcus Stoinis  │   47   │   30    │  156.67  │
+│    Tim David     │   3    │    5    │  60.00   │
+│   Matthew Wade   │   10   │    5    │  200.00  │
+│   Pat Cummins    │   15   │   10    │  150.00  │
+│  Mitchell Starc  │   0    │    2    │   0.00   │
+│    Adam Zampa    │   0    │    2    │   0.00   │
+│  Josh Hazlewood  │   8    │    6    │  133.33  │
+└──────────────────┴────────┴─────────┴──────────┘
+
+                       BOWLING SCORECARD                        
+┌───────────────────┬─────────┬────────┬───────────┬───────────┐
+│       Name        │  Overs  │  Runs  │  Wickets  │  Economy  │
+├───────────────────┼─────────┼────────┼───────────┼───────────┤
+│  Mohammed Siraj   │   4.0   │   26   │     2     │   6.50    │
+│  Arshdeep Singh   │   3.0   │   38   │     1     │   12.67   │
+│  Jasprit Bumrah   │   4.0   │   33   │     3     │   8.25    │
+│   Hardik Pandya   │   3.0   │   26   │     1     │   8.67    │
+│  Ravindra Jadeja  │   3.0   │   16   │     0     │   5.33    │
+│   Rohit Sharma    │   3.0   │   31   │     1     │   10.33   │
+└───────────────────┴─────────┴────────┴───────────┴───────────┘
+
+BALL-BY-BALL LOG:
+
+                                            Over 1                                            
+┌────────┬──────────────────┬────────────────┬────────────────┬───────────┬─────────┬────────┐
+│  Ball  │      Bowler      │    Striker     │  Non-striker   │  Result   │  Score  │  Wkts  │
+├────────┼──────────────────┼────────────────┼────────────────┼───────────┼─────────┼────────┤
+│  0.1   │  Mohammed Siraj  │  Travis Head   │  David Warner  │  Single   │    1    │   0    │
+│  0.2   │  Mohammed Siraj  │  David Warner  │  Travis Head   │  4 Runs!  │    5    │   0    │
+│  0.3   │  Mohammed Siraj  │  David Warner  │  Travis Head   │  Double   │    7    │   0    │
+│  0.4   │  Mohammed Siraj  │  David Warner  │  Travis Head   │    DOT    │    7    │   0    │
+│  0.5   │  Mohammed Siraj  │  David Warner  │  Travis Head   │    DOT    │    7    │   0    │
+│  0.6   │  Mohammed Siraj  │  David Warner  │  Travis Head   │  Single   │    8    │   0    │
+└────────┴──────────────────┴────────────────┴────────────────┴───────────┴─────────┴────────┘
+
+                                             Over 2                                             
+┌────────┬──────────────────┬────────────────┬────────────────┬─────────────┬─────────┬────────┐
+│  Ball  │      Bowler      │    Striker     │  Non-striker   │   Result    │  Score  │  Wkts  │
+├────────┼──────────────────┼────────────────┼────────────────┼─────────────┼─────────┼────────┤
+│  1.1   │  Arshdeep Singh  │  David Warner  │  Travis Head   │  6 Runs!!!  │   14    │   0    │
+│  1.2   │  Arshdeep Singh  │  David Warner  │  Travis Head   │     DOT     │   14    │   0    │
+│  1.3   │  Arshdeep Singh  │  David Warner  │  Travis Head   │   Single    │   15    │   0    │
+│  1.4   │  Arshdeep Singh  │  Travis Head   │  David Warner  │   Single    │   16    │   0    │
+│  1.5   │  Arshdeep Singh  │  David Warner  │  Travis Head   │   Double    │   18    │   0    │
+│  1.6   │  Arshdeep Singh  │  David Warner  │  Travis Head   │   Single    │   19    │   0    │
+└────────┴──────────────────┴────────────────┴────────────────┴─────────────┴─────────┴────────┘
+
+                                           Over 3                                            
+┌────────┬──────────────────┬────────────────┬────────────────┬──────────┬─────────┬────────┐
+│  Ball  │      Bowler      │    Striker     │  Non-striker   │  Result  │  Score  │  Wkts  │
+├────────┼──────────────────┼────────────────┼────────────────┼──────────┼─────────┼────────┤
+│  2.1   │  Jasprit Bumrah  │  David Warner  │  Travis Head   │  Single  │   20    │   0    │
+│  2.2   │  Jasprit Bumrah  │  Travis Head   │  David Warner  │  Single  │   21    │   0    │
+│  2.3   │  Jasprit Bumrah  │  David Warner  │  Travis Head   │  Single  │   22    │   0    │
+│  2.4   │  Jasprit Bumrah  │  Travis Head   │  David Warner  │   DOT    │   22    │   0    │
+│  2.5   │  Jasprit Bumrah  │  Travis Head   │  David Warner  │   DOT    │   22    │   0    │
+│  2.6   │  Jasprit Bumrah  │  Travis Head   │  David Warner  │   DOT    │   22    │   0    │
+└────────┴──────────────────┴────────────────┴────────────────┴──────────┴─────────┴────────┘
+
+                                           Over 4                                            
+┌────────┬─────────────────┬────────────────┬────────────────┬───────────┬─────────┬────────┐
+│  Ball  │     Bowler      │    Striker     │  Non-striker   │  Result   │  Score  │  Wkts  │
+├────────┼─────────────────┼────────────────┼────────────────┼───────────┼─────────┼────────┤
+│  3.1   │  Hardik Pandya  │  David Warner  │  Travis Head   │    DOT    │   22    │   0    │
+│  3.2   │  Hardik Pandya  │  David Warner  │  Travis Head   │    DOT    │   22    │   0    │
+│  3.3   │  Hardik Pandya  │  David Warner  │  Travis Head   │  Double   │   24    │   0    │
+│  3.4   │  Hardik Pandya  │  David Warner  │  Travis Head   │  4 Runs!  │   28    │   0    │
+│  3.5   │  Hardik Pandya  │  David Warner  │  Travis Head   │  Single   │   29    │   0    │
+│  3.6   │  Hardik Pandya  │  Travis Head   │  David Warner  │  Single   │   30    │   0    │
+└────────┴─────────────────┴────────────────┴────────────────┴───────────┴─────────┴────────┘
+
+                                            Over 5                                            
+┌────────┬───────────────────┬────────────────┬────────────────┬──────────┬─────────┬────────┐
+│  Ball  │      Bowler       │    Striker     │  Non-striker   │  Result  │  Score  │  Wkts  │
+├────────┼───────────────────┼────────────────┼────────────────┼──────────┼─────────┼────────┤
+│  4.1   │  Ravindra Jadeja  │  Travis Head   │  David Warner  │   DOT    │   30    │   0    │
+│  4.2   │  Ravindra Jadeja  │  Travis Head   │  David Warner  │   DOT    │   30    │   0    │
+│  4.3   │  Ravindra Jadeja  │  Travis Head   │  David Warner  │  Single  │   31    │   0    │
+│  4.4   │  Ravindra Jadeja  │  David Warner  │  Travis Head   │  Triple  │   34    │   0    │
+│  4.5   │  Ravindra Jadeja  │  Travis Head   │  David Warner  │  Single  │   35    │   0    │
+│  4.6   │  Ravindra Jadeja  │  David Warner  │  Travis Head   │   DOT    │   35    │   0    │
+└────────┴───────────────────┴────────────────┴────────────────┴──────────┴─────────┴────────┘
+
+                                            Over 6                                            
+┌────────┬────────────────┬────────────────┬────────────────┬─────────────┬─────────┬────────┐
+│  Ball  │     Bowler     │    Striker     │  Non-striker   │   Result    │  Score  │  Wkts  │
+├────────┼────────────────┼────────────────┼────────────────┼─────────────┼─────────┼────────┤
+│  5.1   │  Rohit Sharma  │  Travis Head   │  David Warner  │   Single    │   36    │   0    │
+│  5.2   │  Rohit Sharma  │  David Warner  │  Travis Head   │   4 Runs!   │   40    │   0    │
+│  5.3   │  Rohit Sharma  │  David Warner  │  Travis Head   │     DOT     │   40    │   0    │
+│  5.4   │  Rohit Sharma  │  David Warner  │  Travis Head   │  6 Runs!!!  │   46    │   0    │
+│  5.5   │  Rohit Sharma  │  David Warner  │  Travis Head   │   Single    │   47    │   0    │
+│  5.6   │  Rohit Sharma  │  Travis Head   │  David Warner  │   Single    │   48    │   0    │
+└────────┴────────────────┴────────────────┴────────────────┴─────────────┴─────────┴────────┘
+
+                                              Over 7                                               
+┌────────┬──────────────────┬──────────────────┬──────────────────┬────────────┬─────────┬────────┐
+│  Ball  │      Bowler      │     Striker      │   Non-striker    │   Result   │  Score  │  Wkts  │
+├────────┼──────────────────┼──────────────────┼──────────────────┼────────────┼─────────┼────────┤
+│  6.1   │  Mohammed Siraj  │   Travis Head    │   David Warner   │    DOT     │   48    │   0    │
+│  6.2   │  Mohammed Siraj  │   Travis Head    │   David Warner   │    DOT     │   48    │   0    │
+│  6.3   │  Mohammed Siraj  │   Travis Head    │   David Warner   │   Single   │   49    │   0    │
+│  6.4   │  Mohammed Siraj  │   David Warner   │   Travis Head    │  WICKET!!  │   49    │   1    │
+│  6.5   │  Mohammed Siraj  │  Josh Hazlewood  │   Travis Head    │   Single   │   50    │   1    │
+│  6.6   │  Mohammed Siraj  │   Travis Head    │  Josh Hazlewood  │    DOT     │   50    │   1    │
+└────────┴──────────────────┴──────────────────┴──────────────────┴────────────┴─────────┴────────┘
+
+                                                Over 8                                                
+┌────────┬──────────────────┬──────────────────┬──────────────────┬───────────────┬─────────┬────────┐
+│  Ball  │      Bowler      │     Striker      │   Non-striker    │    Result     │  Score  │  Wkts  │
+├────────┼──────────────────┼──────────────────┼──────────────────┼───────────────┼─────────┼────────┤
+│  7.1   │  Arshdeep Singh  │  Josh Hazlewood  │   Travis Head    │      DOT      │   50    │   1    │
+│  7.2   │  Arshdeep Singh  │  Josh Hazlewood  │   Travis Head    │    Single     │   51    │   1    │
+│  7.3   │  Arshdeep Singh  │   Travis Head    │  Josh Hazlewood  │    Single     │   52    │   1    │
+│  7.4   │  Arshdeep Singh  │  Josh Hazlewood  │   Travis Head    │   6 Runs!!!   │   58    │   1    │
+│  7.5   │  Arshdeep Singh  │  Josh Hazlewood  │   Travis Head    │      DOT      │   58    │   1    │
+│  7.6   │  Arshdeep Singh  │  Josh Hazlewood  │   Travis Head    │  Caught Out!  │   58    │   2    │
+└────────┴──────────────────┴──────────────────┴──────────────────┴───────────────┴─────────┴────────┘
+
+                                                Over 9                                                
+┌────────┬──────────────────┬──────────────────┬──────────────────┬───────────────┬─────────┬────────┐
+│  Ball  │      Bowler      │     Striker      │   Non-striker    │    Result     │  Score  │  Wkts  │
+├────────┼──────────────────┼──────────────────┼──────────────────┼───────────────┼─────────┼────────┤
+│  8.1   │  Jasprit Bumrah  │    Adam Zampa    │  Josh Hazlewood  │      DOT      │   58    │   2    │
+│  8.2   │  Jasprit Bumrah  │    Adam Zampa    │  Josh Hazlewood  │   WICKET!!    │   58    │   3    │
+│  8.3   │  Jasprit Bumrah  │  Mitchell Starc  │  Josh Hazlewood  │   Run Out!    │   58    │   4    │
+│  8.4   │  Jasprit Bumrah  │  Mitchell Starc  │   Pat Cummins    │  Caught Out!  │   58    │   5    │
+│  8.5   │  Jasprit Bumrah  │   Matthew Wade   │   Pat Cummins    │    4 Runs!    │   62    │   5    │
+│  8.6   │  Jasprit Bumrah  │   Matthew Wade   │   Pat Cummins    │     Wide      │   63    │   5    │
+│  8.6   │  Jasprit Bumrah  │   Matthew Wade   │   Pat Cummins    │    4 Runs!    │   67    │   5    │
+└────────┴──────────────────┴──────────────────┴──────────────────┴───────────────┴─────────┴────────┘
+
+                                           Over 10                                            
+┌────────┬─────────────────┬────────────────┬────────────────┬────────────┬─────────┬────────┐
+│  Ball  │     Bowler      │    Striker     │  Non-striker   │   Result   │  Score  │  Wkts  │
+├────────┼─────────────────┼────────────────┼────────────────┼────────────┼─────────┼────────┤
+│  9.1   │  Hardik Pandya  │  Pat Cummins   │  Matthew Wade  │   Single   │   68    │   5    │
+│  9.2   │  Hardik Pandya  │  Matthew Wade  │  Pat Cummins   │    DOT     │   68    │   5    │
+│  9.3   │  Hardik Pandya  │  Matthew Wade  │  Pat Cummins   │   Single   │   69    │   5    │
+│  9.4   │  Hardik Pandya  │  Pat Cummins   │  Matthew Wade  │   Single   │   70    │   5    │
+│  9.5   │  Hardik Pandya  │  Matthew Wade  │  Pat Cummins   │  WICKET!!  │   70    │   6    │
+│  9.6   │  Hardik Pandya  │   Tim David    │  Pat Cummins   │   Double   │   72    │   6    │
+└────────┴─────────────────┴────────────────┴────────────────┴────────────┴─────────┴────────┘
+
+                                            Over 11                                            
+┌────────┬───────────────────┬───────────────┬───────────────┬─────────────┬─────────┬────────┐
+│  Ball  │      Bowler       │    Striker    │  Non-striker  │   Result    │  Score  │  Wkts  │
+├────────┼───────────────────┼───────────────┼───────────────┼─────────────┼─────────┼────────┤
+│  10.1  │  Ravindra Jadeja  │  Pat Cummins  │   Tim David   │  6 Runs!!!  │   78    │   6    │
+│  10.2  │  Ravindra Jadeja  │  Pat Cummins  │   Tim David   │     DOT     │   78    │   6    │
+│  10.3  │  Ravindra Jadeja  │  Pat Cummins  │   Tim David   │   Single    │   79    │   6    │
+│  10.4  │  Ravindra Jadeja  │   Tim David   │  Pat Cummins  │   Single    │   80    │   6    │
+│  10.5  │  Ravindra Jadeja  │  Pat Cummins  │   Tim David   │   Single    │   81    │   6    │
+│  10.6  │  Ravindra Jadeja  │   Tim David   │  Pat Cummins  │     DOT     │   81    │   6    │
+└────────┴───────────────────┴───────────────┴───────────────┴─────────────┴─────────┴────────┘
+
+                                           Over 12                                            
+┌────────┬────────────────┬──────────────────┬───────────────┬────────────┬─────────┬────────┐
+│  Ball  │     Bowler     │     Striker      │  Non-striker  │   Result   │  Score  │  Wkts  │
+├────────┼────────────────┼──────────────────┼───────────────┼────────────┼─────────┼────────┤
+│  11.1  │  Rohit Sharma  │   Pat Cummins    │   Tim David   │   Double   │   83    │   6    │
+│  11.2  │  Rohit Sharma  │   Pat Cummins    │   Tim David   │   Single   │   84    │   6    │
+│  11.3  │  Rohit Sharma  │    Tim David     │  Pat Cummins  │    DOT     │   84    │   6    │
+│  11.4  │  Rohit Sharma  │    Tim David     │  Pat Cummins  │  WICKET!!  │   84    │   7    │
+│  11.5  │  Rohit Sharma  │  Marcus Stoinis  │  Pat Cummins  │  4 Runs!   │   88    │   7    │
+│  11.6  │  Rohit Sharma  │  Marcus Stoinis  │  Pat Cummins  │   Double   │   90    │   7    │
+└────────┴────────────────┴──────────────────┴───────────────┴────────────┴─────────┴────────┘
+
+                                              Over 13                                              
+┌────────┬──────────────────┬──────────────────┬──────────────────┬────────────┬─────────┬────────┐
+│  Ball  │      Bowler      │     Striker      │   Non-striker    │   Result   │  Score  │  Wkts  │
+├────────┼──────────────────┼──────────────────┼──────────────────┼────────────┼─────────┼────────┤
+│  12.1  │  Mohammed Siraj  │   Pat Cummins    │  Marcus Stoinis  │    Wide    │   91    │   7    │
+│  12.1  │  Mohammed Siraj  │   Pat Cummins    │  Marcus Stoinis  │   Single   │   92    │   7    │
+│  12.2  │  Mohammed Siraj  │  Marcus Stoinis  │   Pat Cummins    │    DOT     │   92    │   7    │
+│  12.3  │  Mohammed Siraj  │  Marcus Stoinis  │   Pat Cummins    │    DOT     │   92    │   7    │
+│  12.4  │  Mohammed Siraj  │  Marcus Stoinis  │   Pat Cummins    │   Single   │   93    │   7    │
+│  12.5  │  Mohammed Siraj  │   Pat Cummins    │  Marcus Stoinis  │  WICKET!!  │   93    │   8    │
+│  12.6  │  Mohammed Siraj  │  Glenn Maxwell   │  Marcus Stoinis  │  4 Runs!   │   97    │   8    │
+└────────┴──────────────────┴──────────────────┴──────────────────┴────────────┴─────────┴────────┘
+
+                                              Over 14                                               
+┌────────┬──────────────────┬──────────────────┬──────────────────┬─────────────┬─────────┬────────┐
+│  Ball  │      Bowler      │     Striker      │   Non-striker    │   Result    │  Score  │  Wkts  │
+├────────┼──────────────────┼──────────────────┼──────────────────┼─────────────┼─────────┼────────┤
+│  13.1  │  Arshdeep Singh  │  Marcus Stoinis  │  Glenn Maxwell   │  6 Runs!!!  │   103   │   8    │
+│  13.2  │  Arshdeep Singh  │  Marcus Stoinis  │  Glenn Maxwell   │   Single    │   104   │   8    │
+│  13.3  │  Arshdeep Singh  │  Glenn Maxwell   │  Marcus Stoinis  │     DOT     │   104   │   8    │
+│  13.4  │  Arshdeep Singh  │  Glenn Maxwell   │  Marcus Stoinis  │  6 Runs!!!  │   110   │   8    │
+│  13.5  │  Arshdeep Singh  │  Glenn Maxwell   │  Marcus Stoinis  │  6 Runs!!!  │   116   │   8    │
+│  13.6  │  Arshdeep Singh  │  Glenn Maxwell   │  Marcus Stoinis  │     DOT     │   116   │   8    │
+└────────┴──────────────────┴──────────────────┴──────────────────┴─────────────┴─────────┴────────┘
+
+                                             Over 15                                             
+┌────────┬──────────────────┬──────────────────┬──────────────────┬──────────┬─────────┬────────┐
+│  Ball  │      Bowler      │     Striker      │   Non-striker    │  Result  │  Score  │  Wkts  │
+├────────┼──────────────────┼──────────────────┼──────────────────┼──────────┼─────────┼────────┤
+│  14.1  │  Jasprit Bumrah  │  Marcus Stoinis  │  Glenn Maxwell   │   DOT    │   116   │   8    │
+│  14.2  │  Jasprit Bumrah  │  Marcus Stoinis  │  Glenn Maxwell   │  Single  │   117   │   8    │
+│  14.3  │  Jasprit Bumrah  │  Glenn Maxwell   │  Marcus Stoinis  │   DOT    │   117   │   8    │
+│  14.4  │  Jasprit Bumrah  │  Glenn Maxwell   │  Marcus Stoinis  │  Single  │   118   │   8    │
+│  14.5  │  Jasprit Bumrah  │  Marcus Stoinis  │  Glenn Maxwell   │   DOT    │   118   │   8    │
+│  14.6  │  Jasprit Bumrah  │  Marcus Stoinis  │  Glenn Maxwell   │   DOT    │   118   │   8    │
+└────────┴──────────────────┴──────────────────┴──────────────────┴──────────┴─────────┴────────┘
+
+                                              Over 16                                              
+┌────────┬─────────────────┬──────────────────┬──────────────────┬─────────────┬─────────┬────────┐
+│  Ball  │     Bowler      │     Striker      │   Non-striker    │   Result    │  Score  │  Wkts  │
+├────────┼─────────────────┼──────────────────┼──────────────────┼─────────────┼─────────┼────────┤
+│  15.1  │  Hardik Pandya  │  Glenn Maxwell   │  Marcus Stoinis  │   Double    │   120   │   8    │
+│  15.2  │  Hardik Pandya  │  Glenn Maxwell   │  Marcus Stoinis  │   Double    │   122   │   8    │
+│  15.3  │  Hardik Pandya  │  Glenn Maxwell   │  Marcus Stoinis  │   Single    │   123   │   8    │
+│  15.4  │  Hardik Pandya  │  Marcus Stoinis  │  Glenn Maxwell   │   Single    │   124   │   8    │
+│  15.5  │  Hardik Pandya  │  Glenn Maxwell   │  Marcus Stoinis  │  6 Runs!!!  │   130   │   8    │
+│  15.6  │  Hardik Pandya  │  Glenn Maxwell   │  Marcus Stoinis  │   Single    │   131   │   8    │
+└────────┴─────────────────┴──────────────────┴──────────────────┴─────────────┴─────────┴────────┘
+
+                                             Over 17                                              
+┌────────┬───────────────────┬──────────────────┬──────────────────┬──────────┬─────────┬────────┐
+│  Ball  │      Bowler       │     Striker      │   Non-striker    │  Result  │  Score  │  Wkts  │
+├────────┼───────────────────┼──────────────────┼──────────────────┼──────────┼─────────┼────────┤
+│  16.1  │  Ravindra Jadeja  │  Glenn Maxwell   │  Marcus Stoinis  │   DOT    │   131   │   8    │
+│  16.2  │  Ravindra Jadeja  │  Glenn Maxwell   │  Marcus Stoinis  │  Single  │   132   │   8    │
+│  16.3  │  Ravindra Jadeja  │  Marcus Stoinis  │  Glenn Maxwell   │   DOT    │   132   │   8    │
+│  16.4  │  Ravindra Jadeja  │  Marcus Stoinis  │  Glenn Maxwell   │   DOT    │   132   │   8    │
+│  16.5  │  Ravindra Jadeja  │  Marcus Stoinis  │  Glenn Maxwell   │   DOT    │   132   │   8    │
+│  16.6  │  Ravindra Jadeja  │  Marcus Stoinis  │  Glenn Maxwell   │  Single  │   133   │   8    │
+└────────┴───────────────────┴──────────────────┴──────────────────┴──────────┴─────────┴────────┘
+
+                                             Over 18                                              
+┌────────┬────────────────┬──────────────────┬──────────────────┬─────────────┬─────────┬────────┐
+│  Ball  │     Bowler     │     Striker      │   Non-striker    │   Result    │  Score  │  Wkts  │
+├────────┼────────────────┼──────────────────┼──────────────────┼─────────────┼─────────┼────────┤
+│  17.1  │  Rohit Sharma  │  Marcus Stoinis  │  Glenn Maxwell   │  6 Runs!!!  │   139   │   8    │
+│  17.2  │  Rohit Sharma  │  Marcus Stoinis  │  Glenn Maxwell   │   Single    │   140   │   8    │
+│  17.3  │  Rohit Sharma  │  Glenn Maxwell   │  Marcus Stoinis  │   Single    │   141   │   8    │
+│  17.4  │  Rohit Sharma  │  Marcus Stoinis  │  Glenn Maxwell   │     DOT     │   141   │   8    │
+│  17.5  │  Rohit Sharma  │  Marcus Stoinis  │  Glenn Maxwell   │     DOT     │   141   │   8    │
+│  17.6  │  Rohit Sharma  │  Marcus Stoinis  │  Glenn Maxwell   │   Single    │   142   │   8    │
+└────────┴────────────────┴──────────────────┴──────────────────┴─────────────┴─────────┴────────┘
+
+                                             Over 19                                              
+┌────────┬──────────────────┬──────────────────┬──────────────────┬───────────┬─────────┬────────┐
+│  Ball  │      Bowler      │     Striker      │   Non-striker    │  Result   │  Score  │  Wkts  │
+├────────┼──────────────────┼──────────────────┼──────────────────┼───────────┼─────────┼────────┤
+│  18.1  │  Mohammed Siraj  │  Marcus Stoinis  │  Glenn Maxwell   │    DOT    │   142   │   8    │
+│  18.2  │  Mohammed Siraj  │  Marcus Stoinis  │  Glenn Maxwell   │    DOT    │   142   │   8    │
+│  18.3  │  Mohammed Siraj  │  Marcus Stoinis  │  Glenn Maxwell   │  4 Runs!  │   146   │   8    │
+│  18.4  │  Mohammed Siraj  │  Marcus Stoinis  │  Glenn Maxwell   │  4 Runs!  │   150   │   8    │
+│  18.5  │  Mohammed Siraj  │  Marcus Stoinis  │  Glenn Maxwell   │  Single   │   151   │   8    │
+│  18.6  │  Mohammed Siraj  │  Glenn Maxwell   │  Marcus Stoinis  │    DOT    │   151   │   8    │
+└────────┴──────────────────┴──────────────────┴──────────────────┴───────────┴─────────┴────────┘
+
+                                              Over 20                                               
+┌────────┬──────────────────┬──────────────────┬──────────────────┬─────────────┬─────────┬────────┐
+│  Ball  │      Bowler      │     Striker      │   Non-striker    │   Result    │  Score  │  Wkts  │
+├────────┼──────────────────┼──────────────────┼──────────────────┼─────────────┼─────────┼────────┤
+│  19.1  │  Jasprit Bumrah  │  Marcus Stoinis  │  Glenn Maxwell   │  6 Runs!!!  │   157   │   8    │
+│  19.2  │  Jasprit Bumrah  │  Marcus Stoinis  │  Glenn Maxwell   │   4 Runs!   │   161   │   8    │
+│  19.3  │  Jasprit Bumrah  │  Marcus Stoinis  │  Glenn Maxwell   │   Double    │   163   │   8    │
+│  19.4  │  Jasprit Bumrah  │  Marcus Stoinis  │  Glenn Maxwell   │   Single    │   164   │   8    │
+│  19.5  │  Jasprit Bumrah  │  Glenn Maxwell   │  Marcus Stoinis  │  6 Runs!!!  │   170   │   8    │
+│  19.6  │  Jasprit Bumrah  │  Glenn Maxwell   │  Marcus Stoinis  │     DOT     │   170   │   8    │
+└────────┴──────────────────┴──────────────────┴──────────────────┴─────────────┴─────────┴────────┘
+
+RESOURCE TIMELINE LOG:
+
+                   GANTT CHART (Pitch Resource Timeline)                   
+┌──────────────┬───────────────────────┬───────────────┬─────────┬────────┐
+│  Tick (µs)  │        Thread         │     Event     │  Score  │  Wkts  │
+├──────────────┼───────────────────────┼───────────────┼─────────┼────────┤
+│      10      │  BWL[Mohammed Siraj]  │    BOWLER     │    0    │   0    │
+│      36      │      Travis Head      │    STRIKER    │    0    │   0    │
+│      73      │    Ravindra Jadeja    │    FIELDER    │    0    │   0    │
+│     101      │     David Warner      │  NON-STRIKER  │    0    │   0    │
+│     177      │          XYZ          │    UMPIRE     │    0    │   0    │
+│     210      │  BWL[Mohammed Siraj]  │    BOWLER     │    1    │   0    │
+│     223      │      Travis Head      │    STRIKER    │    1    │   0    │
+│     249      │    Jasprit Bumrah     │    FIELDER    │    1    │   0    │
+│     297      │          XYZ          │    UMPIRE     │    1    │   0    │
+│     352      │  BWL[Mohammed Siraj]  │    BOWLER     │    5    │   0    │
+│     382      │      Travis Head      │    STRIKER    │    5    │   0    │
+│     408      │    Jasprit Bumrah     │    FIELDER    │    5    │   0    │
+│     430      │     David Warner      │  NON-STRIKER  │    5    │   0    │
+│     492      │          XYZ          │    UMPIRE     │    5    │   0    │
+│     503      │  BWL[Mohammed Siraj]  │    BOWLER     │    7    │   0    │
+│     515      │      Travis Head      │    STRIKER    │    7    │   0    │
+│     535      │          XYZ          │    UMPIRE     │    7    │   0    │
+│     545      │  BWL[Mohammed Siraj]  │    BOWLER     │    7    │   0    │
+│     558      │      Travis Head      │    STRIKER    │    7    │   0    │
+│     589      │          XYZ          │    UMPIRE     │    7    │   0    │
+│     605      │  BWL[Mohammed Siraj]  │    BOWLER     │    7    │   0    │
+│     618      │      Travis Head      │    STRIKER    │    7    │   0    │
+│     638      │     Rohit Sharma      │    FIELDER    │    7    │   0    │
+│     661      │     David Warner      │  NON-STRIKER  │    7    │   0    │
+│     707      │          XYZ          │    UMPIRE     │    7    │   0    │
+│     718      │  BWL[Mohammed Siraj]  │    BOWLER     │    8    │   0    │
+│     727      │      Travis Head      │    STRIKER    │    8    │   0    │
+│     748      │      Virat Kohli      │    FIELDER    │    8    │   0    │
+│     792      │          XYZ          │    UMPIRE     │    8    │   0    │
+│     808      │  BWL[Mohammed Siraj]  │    BOWLER     │   14    │   0    │
+│     819      │      Travis Head      │    STRIKER    │   14    │   0    │
+│     849      │          XYZ          │    UMPIRE     │   14    │   0    │
+│     864      │  BWL[Mohammed Siraj]  │    BOWLER     │   14    │   0    │
+│     874      │      Travis Head      │    STRIKER    │   14    │   0    │
+│     895      │    Arshdeep Singh     │    FIELDER    │   14    │   0    │
+│     918      │     David Warner      │  NON-STRIKER  │   14    │   0    │
+│     959      │          XYZ          │    UMPIRE     │   14    │   0    │
+│     973      │  BWL[Mohammed Siraj]  │    BOWLER     │   15    │   0    │
+│     981      │      Travis Head      │    STRIKER    │   15    │   0    │
+│     1004     │      Virat Kohli      │    FIELDER    │   15    │   0    │
+│     1024     │     David Warner      │  NON-STRIKER  │   15    │   0    │
+│     1073     │          XYZ          │    UMPIRE     │   15    │   0    │
+│     1083     │  BWL[Mohammed Siraj]  │    BOWLER     │   16    │   0    │
+│     1091     │      Travis Head      │    STRIKER    │   16    │   0    │
+│     1112     │   Suryakumar Yadav    │    FIELDER    │   16    │   0    │
+│     1135     │     David Warner      │  NON-STRIKER  │   16    │   0    │
+│     1182     │          XYZ          │    UMPIRE     │   16    │   0    │
+│     1192     │  BWL[Mohammed Siraj]  │    BOWLER     │   18    │   0    │
+│     1205     │      Travis Head      │    STRIKER    │   18    │   0    │
+│     1228     │     MS Dhoni(WK)      │    FIELDER    │   18    │   0    │
+│     1251     │     David Warner      │  NON-STRIKER  │   18    │   0    │
+│     1310     │          XYZ          │    UMPIRE     │   18    │   0    │
+│     1320     │  BWL[Mohammed Siraj]  │    BOWLER     │   19    │   0    │
+│     1333     │      Travis Head      │    STRIKER    │   19    │   0    │
+│     1353     │      Virat Kohli      │    FIELDER    │   19    │   0    │
+│     1376     │     David Warner      │  NON-STRIKER  │   19    │   0    │
+│     1442     │          XYZ          │    UMPIRE     │   19    │   0    │
+│     1451     │  BWL[Mohammed Siraj]  │    BOWLER     │   20    │   0    │
+│     1459     │      Travis Head      │    STRIKER    │   20    │   0    │
+│     1481     │       KL Rahul        │    FIELDER    │   20    │   0    │
+│     1501     │     David Warner      │  NON-STRIKER  │   20    │   0    │
+│     1563     │          XYZ          │    UMPIRE     │   20    │   0    │
+│     1586     │  BWL[Mohammed Siraj]  │    BOWLER     │   21    │   0    │
+│     1593     │      Travis Head      │    STRIKER    │   21    │   0    │
+│     1615     │    Jasprit Bumrah     │    FIELDER    │   21    │   0    │
+│     1635     │     David Warner      │  NON-STRIKER  │   21    │   0    │
+│     1690     │          XYZ          │    UMPIRE     │   21    │   0    │
+│     1699     │  BWL[Mohammed Siraj]  │    BOWLER     │   22    │   0    │
+│     1713     │      Travis Head      │    STRIKER    │   22    │   0    │
+│     1732     │          XYZ          │    UMPIRE     │   22    │   0    │
+│     1739     │  BWL[Mohammed Siraj]  │    BOWLER     │   22    │   0    │
+│     1747     │      Travis Head      │    STRIKER    │   22    │   0    │
+│     1775     │          XYZ          │    UMPIRE     │   22    │   0    │
+│     1809     │  BWL[Mohammed Siraj]  │    BOWLER     │   22    │   0    │
+│     1817     │      Travis Head      │    STRIKER    │   22    │   0    │
+│     1846     │          XYZ          │    UMPIRE     │   22    │   0    │
+│     1855     │  BWL[Mohammed Siraj]  │    BOWLER     │   22    │   0    │
+│     1863     │      Travis Head      │    STRIKER    │   22    │   0    │
+│     1893     │          XYZ          │    UMPIRE     │   22    │   0    │
+│     1902     │  BWL[Mohammed Siraj]  │    BOWLER     │   22    │   0    │
+│     1910     │      Travis Head      │    STRIKER    │   22    │   0    │
+│     1934     │          XYZ          │    UMPIRE     │   22    │   0    │
+│     1942     │  BWL[Mohammed Siraj]  │    BOWLER     │   22    │   0    │
+│     1964     │      Travis Head      │    STRIKER    │   22    │   0    │
+│     1986     │      Virat Kohli      │    FIELDER    │   22    │   0    │
+│     2014     │     David Warner      │  NON-STRIKER  │   22    │   0    │
+│     2080     │          XYZ          │    UMPIRE     │   22    │   0    │
+│     2104     │  BWL[Mohammed Siraj]  │    BOWLER     │   24    │   0    │
+│     2117     │      Travis Head      │    STRIKER    │   24    │   0    │
+│     2139     │    Arshdeep Singh     │    FIELDER    │   24    │   0    │
+│     2182     │          XYZ          │    UMPIRE     │   24    │   0    │
+│     2193     │  BWL[Mohammed Siraj]  │    BOWLER     │   28    │   0    │
+│     2203     │      Travis Head      │    STRIKER    │   28    │   0    │
+│     2223     │     Hardik Pandya     │    FIELDER    │   28    │   0    │
+│     2249     │     David Warner      │  NON-STRIKER  │   28    │   0    │
+│     2296     │          XYZ          │    UMPIRE     │   28    │   0    │
+│     2306     │  BWL[Mohammed Siraj]  │    BOWLER     │   29    │   0    │
+│     2319     │      Travis Head      │    STRIKER    │   29    │   0    │
+│     2341     │   Suryakumar Yadav    │    FIELDER    │   29    │   0    │
+│     2367     │     David Warner      │  NON-STRIKER  │   29    │   0    │
+│     2413     │          XYZ          │    UMPIRE     │   29    │   0    │
+│     2444     │  BWL[Mohammed Siraj]  │    BOWLER     │   30    │   0    │
+│     2458     │      Travis Head      │    STRIKER    │   30    │   0    │
+│     2477     │          XYZ          │    UMPIRE     │   30    │   0    │
+│     2487     │  BWL[Mohammed Siraj]  │    BOWLER     │   30    │   0    │
+│     2501     │      Travis Head      │    STRIKER    │   30    │   0    │
+│     2520     │          XYZ          │    UMPIRE     │   30    │   0    │
+│     2527     │  BWL[Mohammed Siraj]  │    BOWLER     │   30    │   0    │
+│     2534     │      Travis Head      │    STRIKER    │   30    │   0    │
+│     2555     │    Jasprit Bumrah     │    FIELDER    │   30    │   0    │
+│     2574     │     David Warner      │  NON-STRIKER  │   30    │   0    │
+│     2619     │          XYZ          │    UMPIRE     │   30    │   0    │
+│     2629     │  BWL[Mohammed Siraj]  │    BOWLER     │   31    │   0    │
+│     2637     │      Travis Head      │    STRIKER    │   31    │   0    │
+│     2658     │      Virat Kohli      │    FIELDER    │   31    │   0    │
+│     2679     │     David Warner      │  NON-STRIKER  │   31    │   0    │
+│     2730     │          XYZ          │    UMPIRE     │   31    │   0    │
+│     2739     │  BWL[Mohammed Siraj]  │    BOWLER     │   34    │   0    │
+│     2748     │      Travis Head      │    STRIKER    │   34    │   0    │
+│     2772     │     MS Dhoni(WK)      │    FIELDER    │   34    │   0    │
+│     2792     │     David Warner      │  NON-STRIKER  │   34    │   0    │
+│     2837     │          XYZ          │    UMPIRE     │   34    │   0    │
+│     2863     │  BWL[Mohammed Siraj]  │    BOWLER     │   35    │   0    │
+│     2871     │      Travis Head      │    STRIKER    │   35    │   0    │
+│     2900     │          XYZ          │    UMPIRE     │   35    │   0    │
+│     2910     │  BWL[Mohammed Siraj]  │    BOWLER     │   35    │   0    │
+│     2918     │      Travis Head      │    STRIKER    │   35    │   0    │
+│     2939     │      Virat Kohli      │    FIELDER    │   35    │   0    │
+│     2960     │     David Warner      │  NON-STRIKER  │   35    │   0    │
+│     3012     │          XYZ          │    UMPIRE     │   35    │   0    │
+│     3022     │  BWL[Mohammed Siraj]  │    BOWLER     │   36    │   0    │
+│     3030     │      Travis Head      │    STRIKER    │   36    │   0    │
+│     3051     │     Hardik Pandya     │    FIELDER    │   36    │   0    │
+│     3095     │          XYZ          │    UMPIRE     │   36    │   0    │
+│     3106     │  BWL[Mohammed Siraj]  │    BOWLER     │   40    │   0    │
+│     3117     │      Travis Head      │    STRIKER    │   40    │   0    │
+│     3146     │          XYZ          │    UMPIRE     │   40    │   0    │
+│     3172     │  BWL[Mohammed Siraj]  │    BOWLER     │   40    │   0    │
+│     3180     │      Travis Head      │    STRIKER    │   40    │   0    │
+│     3201     │     MS Dhoni(WK)      │    FIELDER    │   40    │   0    │
+│     3257     │          XYZ          │    UMPIRE     │   40    │   0    │
+│     3265     │  BWL[Mohammed Siraj]  │    BOWLER     │   46    │   0    │
+│     3277     │      Travis Head      │    STRIKER    │   46    │   0    │
+│     3298     │       KL Rahul        │    FIELDER    │   46    │   0    │
+│     3320     │     David Warner      │  NON-STRIKER  │   46    │   0    │
+│     3375     │          XYZ          │    UMPIRE     │   46    │   0    │
+│     3385     │  BWL[Mohammed Siraj]  │    BOWLER     │   47    │   0    │
+│     3398     │      Travis Head      │    STRIKER    │   47    │   0    │
+│     3419     │     Rohit Sharma      │    FIELDER    │   47    │   0    │
+│     3441     │     David Warner      │  NON-STRIKER  │   47    │   0    │
+│     3482     │          XYZ          │    UMPIRE     │   47    │   0    │
+│     3524     │  BWL[Mohammed Siraj]  │    BOWLER     │   48    │   0    │
+│     3538     │      Travis Head      │    STRIKER    │   48    │   0    │
+│     3558     │          XYZ          │    UMPIRE     │   48    │   0    │
+│     3567     │  BWL[Mohammed Siraj]  │    BOWLER     │   48    │   0    │
+│     3581     │      Travis Head      │    STRIKER    │   48    │   0    │
+│     3600     │          XYZ          │    UMPIRE     │   48    │   0    │
+│     3607     │  BWL[Mohammed Siraj]  │    BOWLER     │   48    │   0    │
+│     3614     │      Travis Head      │    STRIKER    │   48    │   0    │
+│     3634     │    Ravindra Jadeja    │    FIELDER    │   48    │   0    │
+│     3656     │     David Warner      │  NON-STRIKER  │   48    │   0    │
+│     3709     │          XYZ          │    UMPIRE     │   48    │   0    │
+│     3721     │  BWL[Mohammed Siraj]  │    BOWLER     │   49    │   0    │
+│     3734     │      Travis Head      │    STRIKER    │   49    │   0    │
+│     3766     │          XYZ          │    UMPIRE     │   49    │   0    │
+│     3785     │  BWL[Mohammed Siraj]  │    BOWLER     │   49    │   1    │
+│     3812     │    Josh Hazlewood     │    STRIKER    │   49    │   1    │
+│     3836     │      Virat Kohli      │    FIELDER    │   49    │   1    │
+│     3863     │     David Warner      │  NON-STRIKER  │   49    │   1    │
+│     3919     │          XYZ          │    UMPIRE     │   49    │   1    │
+│     3931     │  BWL[Mohammed Siraj]  │    BOWLER     │   50    │   1    │
+│     3939     │    Josh Hazlewood     │    STRIKER    │   50    │   1    │
+│     3963     │          XYZ          │    UMPIRE     │   50    │   1    │
+│     3970     │  BWL[Mohammed Siraj]  │    BOWLER     │   50    │   1    │
+│     3983     │    Josh Hazlewood     │    STRIKER    │   50    │   1    │
+│     4006     │          XYZ          │    UMPIRE     │   50    │   1    │
+│     4015     │  BWL[Mohammed Siraj]  │    BOWLER     │   50    │   1    │
+│     4028     │    Josh Hazlewood     │    STRIKER    │   50    │   1    │
+│     4049     │    Mohammed Siraj     │    FIELDER    │   50    │   1    │
+│     4071     │     David Warner      │  NON-STRIKER  │   50    │   1    │
+│     4112     │          XYZ          │    UMPIRE     │   50    │   1    │
+│     4146     │  BWL[Mohammed Siraj]  │    BOWLER     │   51    │   1    │
+│     4159     │    Josh Hazlewood     │    STRIKER    │   51    │   1    │
+│     4180     │      Axar Patel       │    FIELDER    │   51    │   1    │
+│     4204     │     David Warner      │  NON-STRIKER  │   51    │   1    │
+│     4271     │          XYZ          │    UMPIRE     │   51    │   1    │
+│     4280     │  BWL[Mohammed Siraj]  │    BOWLER     │   52    │   1    │
+│     4294     │    Josh Hazlewood     │    STRIKER    │   52    │   1    │
+│     4314     │    Arshdeep Singh     │    FIELDER    │   52    │   1    │
+│     4359     │          XYZ          │    UMPIRE     │   52    │   1    │
+│     4380     │  BWL[Mohammed Siraj]  │    BOWLER     │   58    │   1    │
+│     4410     │    Josh Hazlewood     │    STRIKER    │   58    │   1    │
+│     4437     │          XYZ          │    UMPIRE     │   58    │   1    │
+│     4447     │  BWL[Mohammed Siraj]  │    BOWLER     │   58    │   1    │
+│     4461     │    Josh Hazlewood     │    STRIKER    │   58    │   1    │
+│     4487     │   Suryakumar Yadav    │    FIELDER    │   58    │   1    │
+│     4538     │          XYZ          │    UMPIRE     │   58    │   1    │
+│     4557     │  BWL[Mohammed Siraj]  │    BOWLER     │   58    │   2    │
+│     4571     │      Adam Zampa       │    STRIKER    │   58    │   2    │
+│     4611     │          XYZ          │    UMPIRE     │   58    │   2    │
+│     4626     │  BWL[Mohammed Siraj]  │    BOWLER     │   58    │   2    │
+│     4636     │      Adam Zampa       │    STRIKER    │   58    │   2    │
+│     4668     │          XYZ          │    UMPIRE     │   58    │   2    │
+│     4748     │  BWL[Mohammed Siraj]  │    BOWLER     │   58    │   3    │
+│     4761     │    Mitchell Starc     │    STRIKER    │   58    │   3    │
+│     4783     │     Rohit Sharma      │    FIELDER    │   58    │   3    │
+│     4807     │     David Warner      │  NON-STRIKER  │   58    │   3    │
+│     4859     │          XYZ          │    UMPIRE     │   58    │   3    │
+│     4882     │  BWL[Mohammed Siraj]  │    BOWLER     │   58    │   4    │
+│     4906     │    Mitchell Starc     │    STRIKER    │   58    │   4    │
+│     4928     │    Arshdeep Singh     │    FIELDER    │   58    │   4    │
+│     4994     │          XYZ          │    UMPIRE     │   58    │   4    │
+│     5020     │  BWL[Mohammed Siraj]  │    BOWLER     │   58    │   5    │
+│     5028     │     Matthew Wade      │    STRIKER    │   58    │   5    │
+│     5049     │    Arshdeep Singh     │    FIELDER    │   58    │   5    │
+│     5093     │          XYZ          │    UMPIRE     │   58    │   5    │
+│     5108     │  BWL[Mohammed Siraj]  │    BOWLER     │   62    │   5    │
+│     5138     │          XYZ          │    UMPIRE     │   62    │   5    │
+│     5153     │  BWL[Mohammed Siraj]  │    BOWLER     │   63    │   5    │
+│     5163     │     Matthew Wade      │    STRIKER    │   63    │   5    │
+│     5182     │    Jasprit Bumrah     │    FIELDER    │   63    │   5    │
+│     5226     │          XYZ          │    UMPIRE     │   63    │   5    │
+│     5240     │  BWL[Mohammed Siraj]  │    BOWLER     │   67    │   5    │
+│     5248     │     Matthew Wade      │    STRIKER    │   67    │   5    │
+│     5264     │    Ravindra Jadeja    │    FIELDER    │   67    │   5    │
+│     5292     │      Pat Cummins      │  NON-STRIKER  │   67    │   5    │
+│     5370     │          XYZ          │    UMPIRE     │   67    │   5    │
+│     5379     │  BWL[Mohammed Siraj]  │    BOWLER     │   68    │   5    │
+│     5387     │     Matthew Wade      │    STRIKER    │   68    │   5    │
+│     5416     │          XYZ          │    UMPIRE     │   68    │   5    │
+│     5425     │  BWL[Mohammed Siraj]  │    BOWLER     │   68    │   5    │
+│     5433     │     Matthew Wade      │    STRIKER    │   68    │   5    │
+│     5458     │       KL Rahul        │    FIELDER    │   68    │   5    │
+│     5479     │      Pat Cummins      │  NON-STRIKER  │   68    │   5    │
+│     5544     │          XYZ          │    UMPIRE     │   68    │   5    │
+│     5566     │  BWL[Mohammed Siraj]  │    BOWLER     │   69    │   5    │
+│     5573     │     Matthew Wade      │    STRIKER    │   69    │   5    │
+│     5594     │    Mohammed Siraj     │    FIELDER    │   69    │   5    │
+│     5614     │      Pat Cummins      │  NON-STRIKER  │   69    │   5    │
+│     5664     │          XYZ          │    UMPIRE     │   69    │   5    │
+│     5674     │  BWL[Mohammed Siraj]  │    BOWLER     │   70    │   5    │
+│     5688     │     Matthew Wade      │    STRIKER    │   70    │   5    │
+│     5710     │          XYZ          │    UMPIRE     │   70    │   5    │
+│     5738     │  BWL[Mohammed Siraj]  │    BOWLER     │   70    │   6    │
+│     5746     │       Tim David       │    STRIKER    │   70    │   6    │
+│     5767     │     Rohit Sharma      │    FIELDER    │   70    │   6    │
+│     5789     │      Pat Cummins      │  NON-STRIKER  │   70    │   6    │
+│     5863     │          XYZ          │    UMPIRE     │   70    │   6    │
+│     5886     │  BWL[Mohammed Siraj]  │    BOWLER     │   72    │   6    │
+│     5894     │       Tim David       │    STRIKER    │   72    │   6    │
+│     5914     │      Virat Kohli      │    FIELDER    │   72    │   6    │
+│     5959     │          XYZ          │    UMPIRE     │   72    │   6    │
+│     5974     │  BWL[Mohammed Siraj]  │    BOWLER     │   78    │   6    │
+│     6002     │       Tim David       │    STRIKER    │   78    │   6    │
+│     6028     │          XYZ          │    UMPIRE     │   78    │   6    │
+│     6037     │  BWL[Mohammed Siraj]  │    BOWLER     │   78    │   6    │
+│     6051     │       Tim David       │    STRIKER    │   78    │   6    │
+│     6072     │   Suryakumar Yadav    │    FIELDER    │   78    │   6    │
+│     6097     │      Pat Cummins      │  NON-STRIKER  │   78    │   6    │
+│     6154     │          XYZ          │    UMPIRE     │   78    │   6    │
+│     6179     │  BWL[Mohammed Siraj]  │    BOWLER     │   79    │   6    │
+│     6187     │       Tim David       │    STRIKER    │   79    │   6    │
+│     6208     │     Rohit Sharma      │    FIELDER    │   79    │   6    │
+│     6231     │      Pat Cummins      │  NON-STRIKER  │   79    │   6    │
+│     6289     │          XYZ          │    UMPIRE     │   79    │   6    │
+│     6342     │  BWL[Mohammed Siraj]  │    BOWLER     │   80    │   6    │
+│     6349     │       Tim David       │    STRIKER    │   80    │   6    │
+│     6372     │      Axar Patel       │    FIELDER    │   80    │   6    │
+│     6394     │      Pat Cummins      │  NON-STRIKER  │   80    │   6    │
+│     6466     │          XYZ          │    UMPIRE     │   80    │   6    │
+│     6476     │  BWL[Mohammed Siraj]  │    BOWLER     │   81    │   6    │
+│     6490     │       Tim David       │    STRIKER    │   81    │   6    │
+│     6518     │          XYZ          │    UMPIRE     │   81    │   6    │
+│     6528     │  BWL[Mohammed Siraj]  │    BOWLER     │   81    │   6    │
+│     6541     │       Tim David       │    STRIKER    │   81    │   6    │
+│     6563     │   Suryakumar Yadav    │    FIELDER    │   81    │   6    │
+│     6586     │      Pat Cummins      │  NON-STRIKER  │   81    │   6    │
+│     6649     │          XYZ          │    UMPIRE     │   81    │   6    │
+│     6655     │  BWL[Mohammed Siraj]  │    BOWLER     │   83    │   6    │
+│     6666     │       Tim David       │    STRIKER    │   83    │   6    │
+│     6682     │     Rohit Sharma      │    FIELDER    │   83    │   6    │
+│     6699     │      Pat Cummins      │  NON-STRIKER  │   83    │   6    │
+│     6750     │          XYZ          │    UMPIRE     │   83    │   6    │
+│     6764     │  BWL[Mohammed Siraj]  │    BOWLER     │   84    │   6    │
+│     6771     │       Tim David       │    STRIKER    │   84    │   6    │
+│     6793     │          XYZ          │    UMPIRE     │   84    │   6    │
+│     6798     │  BWL[Mohammed Siraj]  │    BOWLER     │   84    │   6    │
+│     6808     │       Tim David       │    STRIKER    │   84    │   6    │
+│     6829     │          XYZ          │    UMPIRE     │   84    │   6    │
+│     6850     │  BWL[Mohammed Siraj]  │    BOWLER     │   84    │   7    │
+│     6856     │    Marcus Stoinis     │    STRIKER    │   84    │   7    │
+│     6872     │     Hardik Pandya     │    FIELDER    │   84    │   7    │
+│     6909     │          XYZ          │    UMPIRE     │   84    │   7    │
+│     6917     │  BWL[Mohammed Siraj]  │    BOWLER     │   88    │   7    │
+│     6925     │    Marcus Stoinis     │    STRIKER    │   88    │   7    │
+│     6940     │    Mohammed Siraj     │    FIELDER    │   88    │   7    │
+│     6958     │      Pat Cummins      │  NON-STRIKER  │   88    │   7    │
+│     7017     │          XYZ          │    UMPIRE     │   88    │   7    │
+│     7024     │  BWL[Mohammed Siraj]  │    BOWLER     │   90    │   7    │
+│     7045     │          XYZ          │    UMPIRE     │   90    │   7    │
+│     7050     │  BWL[Mohammed Siraj]  │    BOWLER     │   91    │   7    │
+│     7060     │    Marcus Stoinis     │    STRIKER    │   91    │   7    │
+│     7075     │     Hardik Pandya     │    FIELDER    │   91    │   7    │
+│     7094     │      Pat Cummins      │  NON-STRIKER  │   91    │   7    │
+│     7134     │          XYZ          │    UMPIRE     │   91    │   7    │
+│     7141     │  BWL[Mohammed Siraj]  │    BOWLER     │   92    │   7    │
+│     7147     │    Marcus Stoinis     │    STRIKER    │   92    │   7    │
+│     7170     │          XYZ          │    UMPIRE     │   92    │   7    │
+│     7174     │  BWL[Mohammed Siraj]  │    BOWLER     │   92    │   7    │
+│     7184     │    Marcus Stoinis     │    STRIKER    │   92    │   7    │
+│     7202     │          XYZ          │    UMPIRE     │   92    │   7    │
+│     7207     │  BWL[Mohammed Siraj]  │    BOWLER     │   92    │   7    │
+│     7214     │    Marcus Stoinis     │    STRIKER    │   92    │   7    │
+│     7230     │   Suryakumar Yadav    │    FIELDER    │   92    │   7    │
+│     7246     │      Pat Cummins      │  NON-STRIKER  │   92    │   7    │
+│     7285     │          XYZ          │    UMPIRE     │   92    │   7    │
+│     7292     │  BWL[Mohammed Siraj]  │    BOWLER     │   93    │   7    │
+│     7298     │    Marcus Stoinis     │    STRIKER    │   93    │   7    │
+│     7329     │          XYZ          │    UMPIRE     │   93    │   7    │
+│     7347     │  BWL[Mohammed Siraj]  │    BOWLER     │   93    │   8    │
+│     7353     │     Glenn Maxwell     │    STRIKER    │   93    │   8    │
+│     7369     │     MS Dhoni(WK)      │    FIELDER    │   93    │   8    │
+│     7417     │          XYZ          │    UMPIRE     │   93    │   8    │
+│     7424     │  BWL[Mohammed Siraj]  │    BOWLER     │   97    │   8    │
+│     7434     │     Glenn Maxwell     │    STRIKER    │   97    │   8    │
+│     7449     │      Virat Kohli      │    FIELDER    │   97    │   8    │
+│     7485     │          XYZ          │    UMPIRE     │   97    │   8    │
+│     7496     │  BWL[Mohammed Siraj]  │    BOWLER     │   103   │   8    │
+│     7524     │     Glenn Maxwell     │    STRIKER    │   103   │   8    │
+│     7541     │      Virat Kohli      │    FIELDER    │   103   │   8    │
+│     7555     │      Pat Cummins      │  NON-STRIKER  │   103   │   8    │
+│     7612     │          XYZ          │    UMPIRE     │   103   │   8    │
+│     7618     │  BWL[Mohammed Siraj]  │    BOWLER     │   104   │   8    │
+│     7623     │     Glenn Maxwell     │    STRIKER    │   104   │   8    │
+│     7646     │          XYZ          │    UMPIRE     │   104   │   8    │
+│     7652     │  BWL[Mohammed Siraj]  │    BOWLER     │   104   │   8    │
+│     7668     │     Glenn Maxwell     │    STRIKER    │   104   │   8    │
+│     7684     │     MS Dhoni(WK)      │    FIELDER    │   104   │   8    │
+│     7742     │          XYZ          │    UMPIRE     │   104   │   8    │
+│     7749     │  BWL[Mohammed Siraj]  │    BOWLER     │   110   │   8    │
+│     7759     │     Glenn Maxwell     │    STRIKER    │   110   │   8    │
+│     7776     │    Ravindra Jadeja    │    FIELDER    │   110   │   8    │
+│     7822     │          XYZ          │    UMPIRE     │   110   │   8    │
+│     7828     │  BWL[Mohammed Siraj]  │    BOWLER     │   116   │   8    │
+│     7833     │     Glenn Maxwell     │    STRIKER    │   116   │   8    │
+│     7858     │          XYZ          │    UMPIRE     │   116   │   8    │
+│     7865     │  BWL[Mohammed Siraj]  │    BOWLER     │   116   │   8    │
+│     7871     │     Glenn Maxwell     │    STRIKER    │   116   │   8    │
+│     7893     │          XYZ          │    UMPIRE     │   116   │   8    │
+│     7898     │  BWL[Mohammed Siraj]  │    BOWLER     │   116   │   8    │
+│     7908     │     Glenn Maxwell     │    STRIKER    │   116   │   8    │
+│     7924     │    Ravindra Jadeja    │    FIELDER    │   116   │   8    │
+│     7940     │      Pat Cummins      │  NON-STRIKER  │   116   │   8    │
+│     7998     │          XYZ          │    UMPIRE     │   116   │   8    │
+│     8012     │  BWL[Mohammed Siraj]  │    BOWLER     │   117   │   8    │
+│     8018     │     Glenn Maxwell     │    STRIKER    │   117   │   8    │
+│     8042     │          XYZ          │    UMPIRE     │   117   │   8    │
+│     8049     │  BWL[Mohammed Siraj]  │    BOWLER     │   117   │   8    │
+│     8055     │     Glenn Maxwell     │    STRIKER    │   117   │   8    │
+│     8071     │    Arshdeep Singh     │    FIELDER    │   117   │   8    │
+│     8086     │      Pat Cummins      │  NON-STRIKER  │   117   │   8    │
+│     8123     │          XYZ          │    UMPIRE     │   117   │   8    │
+│     8137     │  BWL[Mohammed Siraj]  │    BOWLER     │   118   │   8    │
+│     8147     │     Glenn Maxwell     │    STRIKER    │   118   │   8    │
+│     8165     │          XYZ          │    UMPIRE     │   118   │   8    │
+│     8171     │  BWL[Mohammed Siraj]  │    BOWLER     │   118   │   8    │
+│     8177     │     Glenn Maxwell     │    STRIKER    │   118   │   8    │
+│     8200     │          XYZ          │    UMPIRE     │   118   │   8    │
+│     8205     │  BWL[Mohammed Siraj]  │    BOWLER     │   118   │   8    │
+│     8223     │     Glenn Maxwell     │    STRIKER    │   118   │   8    │
+│     8238     │   Suryakumar Yadav    │    FIELDER    │   118   │   8    │
+│     8254     │      Pat Cummins      │  NON-STRIKER  │   118   │   8    │
+│     8302     │          XYZ          │    UMPIRE     │   118   │   8    │
+│     8310     │  BWL[Mohammed Siraj]  │    BOWLER     │   120   │   8    │
+│     8315     │     Glenn Maxwell     │    STRIKER    │   120   │   8    │
+│     8329     │    Ravindra Jadeja    │    FIELDER    │   120   │   8    │
+│     8345     │      Pat Cummins      │  NON-STRIKER  │   120   │   8    │
+│     8382     │          XYZ          │    UMPIRE     │   120   │   8    │
+│     8398     │  BWL[Mohammed Siraj]  │    BOWLER     │   122   │   8    │
+│     8404     │     Glenn Maxwell     │    STRIKER    │   122   │   8    │
+│     8420     │     Rohit Sharma      │    FIELDER    │   122   │   8    │
+│     8434     │      Pat Cummins      │  NON-STRIKER  │   122   │   8    │
+│     8475     │          XYZ          │    UMPIRE     │   122   │   8    │
+│     8480     │  BWL[Mohammed Siraj]  │    BOWLER     │   123   │   8    │
+│     8491     │     Glenn Maxwell     │    STRIKER    │   123   │   8    │
+│     8512     │   Suryakumar Yadav    │    FIELDER    │   123   │   8    │
+│     8525     │      Pat Cummins      │  NON-STRIKER  │   123   │   8    │
+│     8565     │          XYZ          │    UMPIRE     │   123   │   8    │
+│     8572     │  BWL[Mohammed Siraj]  │    BOWLER     │   124   │   8    │
+│     8582     │     Glenn Maxwell     │    STRIKER    │   124   │   8    │
+│     8599     │     Rohit Sharma      │    FIELDER    │   124   │   8    │
+│     8649     │          XYZ          │    UMPIRE     │   124   │   8    │
+│     8655     │  BWL[Mohammed Siraj]  │    BOWLER     │   130   │   8    │
+│     8670     │     Glenn Maxwell     │    STRIKER    │   130   │   8    │
+│     8684     │    Ravindra Jadeja    │    FIELDER    │   130   │   8    │
+│     8700     │      Pat Cummins      │  NON-STRIKER  │   130   │   8    │
+│     8744     │          XYZ          │    UMPIRE     │   130   │   8    │
+│     8751     │  BWL[Mohammed Siraj]  │    BOWLER     │   131   │   8    │
+│     8761     │     Glenn Maxwell     │    STRIKER    │   131   │   8    │
+│     8779     │          XYZ          │    UMPIRE     │   131   │   8    │
+│     8783     │  BWL[Mohammed Siraj]  │    BOWLER     │   131   │   8    │
+│     8790     │     Glenn Maxwell     │    STRIKER    │   131   │   8    │
+│     8805     │   Suryakumar Yadav    │    FIELDER    │   131   │   8    │
+│     8820     │      Pat Cummins      │  NON-STRIKER  │   131   │   8    │
+│     8858     │          XYZ          │    UMPIRE     │   131   │   8    │
+│     8872     │  BWL[Mohammed Siraj]  │    BOWLER     │   132   │   8    │
+│     8884     │     Glenn Maxwell     │    STRIKER    │   132   │   8    │
+│     8907     │          XYZ          │    UMPIRE     │   132   │   8    │
+│     8913     │  BWL[Mohammed Siraj]  │    BOWLER     │   132   │   8    │
+│     8923     │     Glenn Maxwell     │    STRIKER    │   132   │   8    │
+│     8941     │          XYZ          │    UMPIRE     │   132   │   8    │
+│     8948     │  BWL[Mohammed Siraj]  │    BOWLER     │   132   │   8    │
+│     8958     │     Glenn Maxwell     │    STRIKER    │   132   │   8    │
+│     8975     │          XYZ          │    UMPIRE     │   132   │   8    │
+│     8980     │  BWL[Mohammed Siraj]  │    BOWLER     │   132   │   8    │
+│     8987     │     Glenn Maxwell     │    STRIKER    │   132   │   8    │
+│     9004     │     Hardik Pandya     │    FIELDER    │   132   │   8    │
+│     9020     │      Pat Cummins      │  NON-STRIKER  │   132   │   8    │
+│     9063     │          XYZ          │    UMPIRE     │   132   │   8    │
+│     9070     │  BWL[Mohammed Siraj]  │    BOWLER     │   133   │   8    │
+│     9081     │     Glenn Maxwell     │    STRIKER    │   133   │   8    │
+│     9096     │       KL Rahul        │    FIELDER    │   133   │   8    │
+│     9135     │          XYZ          │    UMPIRE     │   133   │   8    │
+│     9143     │  BWL[Mohammed Siraj]  │    BOWLER     │   139   │   8    │
+│     9153     │     Glenn Maxwell     │    STRIKER    │   139   │   8    │
+│     9169     │   Suryakumar Yadav    │    FIELDER    │   139   │   8    │
+│     9184     │      Pat Cummins      │  NON-STRIKER  │   139   │   8    │
+│     9223     │          XYZ          │    UMPIRE     │   139   │   8    │
+│     9256     │  BWL[Mohammed Siraj]  │    BOWLER     │   140   │   8    │
+│     9267     │     Glenn Maxwell     │    STRIKER    │   140   │   8    │
+│     9283     │     Hardik Pandya     │    FIELDER    │   140   │   8    │
+│     9298     │      Pat Cummins      │  NON-STRIKER  │   140   │   8    │
+│     9343     │          XYZ          │    UMPIRE     │   140   │   8    │
+│     9350     │  BWL[Mohammed Siraj]  │    BOWLER     │   141   │   8    │
+│     9356     │     Glenn Maxwell     │    STRIKER    │   141   │   8    │
+│     9379     │          XYZ          │    UMPIRE     │   141   │   8    │
+│     9383     │  BWL[Mohammed Siraj]  │    BOWLER     │   141   │   8    │
+│     9393     │     Glenn Maxwell     │    STRIKER    │   141   │   8    │
+│     9412     │          XYZ          │    UMPIRE     │   141   │   8    │
+│     9416     │  BWL[Mohammed Siraj]  │    BOWLER     │   141   │   8    │
+│     9423     │     Glenn Maxwell     │    STRIKER    │   141   │   8    │
+│     9438     │     MS Dhoni(WK)      │    FIELDER    │   141   │   8    │
+│     9455     │      Pat Cummins      │  NON-STRIKER  │   141   │   8    │
+│     9506     │          XYZ          │    UMPIRE     │   141   │   8    │
+│     9513     │  BWL[Mohammed Siraj]  │    BOWLER     │   142   │   8    │
+│     9519     │     Glenn Maxwell     │    STRIKER    │   142   │   8    │
+│     9541     │          XYZ          │    UMPIRE     │   142   │   8    │
+│     9546     │  BWL[Mohammed Siraj]  │    BOWLER     │   142   │   8    │
+│     9552     │     Glenn Maxwell     │    STRIKER    │   142   │   8    │
+│     9580     │          XYZ          │    UMPIRE     │   142   │   8    │
+│     9588     │  BWL[Mohammed Siraj]  │    BOWLER     │   142   │   8    │
+│     9595     │     Glenn Maxwell     │    STRIKER    │   142   │   8    │
+│     9611     │       KL Rahul        │    FIELDER    │   142   │   8    │
+│     9645     │          XYZ          │    UMPIRE     │   142   │   8    │
+│     9653     │  BWL[Mohammed Siraj]  │    BOWLER     │   146   │   8    │
+│     9669     │     Glenn Maxwell     │    STRIKER    │   146   │   8    │
+│     9684     │      Axar Patel       │    FIELDER    │   146   │   8    │
+│     9737     │          XYZ          │    UMPIRE     │   146   │   8    │
+│     9744     │  BWL[Mohammed Siraj]  │    BOWLER     │   150   │   8    │
+│     9763     │     Glenn Maxwell     │    STRIKER    │   150   │   8    │
+│     9777     │     MS Dhoni(WK)      │    FIELDER    │   150   │   8    │
+│     9794     │      Pat Cummins      │  NON-STRIKER  │   150   │   8    │
+│     9835     │          XYZ          │    UMPIRE     │   150   │   8    │
+│     9842     │  BWL[Mohammed Siraj]  │    BOWLER     │   151   │   8    │
+│     9852     │     Glenn Maxwell     │    STRIKER    │   151   │   8    │
+│     9871     │          XYZ          │    UMPIRE     │   151   │   8    │
+│     9893     │  BWL[Mohammed Siraj]  │    BOWLER     │   151   │   8    │
+│     9903     │     Glenn Maxwell     │    STRIKER    │   151   │   8    │
+│     9918     │   Suryakumar Yadav    │    FIELDER    │   151   │   8    │
+│     9953     │          XYZ          │    UMPIRE     │   151   │   8    │
+│     9962     │  BWL[Mohammed Siraj]  │    BOWLER     │   157   │   8    │
+│     9971     │     Glenn Maxwell     │    STRIKER    │   157   │   8    │
+│     9995     │    Arshdeep Singh     │    FIELDER    │   157   │   8    │
+│    10056     │          XYZ          │    UMPIRE     │   157   │   8    │
+│    10062     │  BWL[Mohammed Siraj]  │    BOWLER     │   161   │   8    │
+│    10071     │     Glenn Maxwell     │    STRIKER    │   161   │   8    │
+│    10081     │     Hardik Pandya     │    FIELDER    │   161   │   8    │
+│    10125     │      Pat Cummins      │  NON-STRIKER  │   161   │   8    │
+│    10165     │          XYZ          │    UMPIRE     │   161   │   8    │
+│    10173     │  BWL[Mohammed Siraj]  │    BOWLER     │   163   │   8    │
+│    10180     │     Glenn Maxwell     │    STRIKER    │   163   │   8    │
+│    10197     │    Mohammed Siraj     │    FIELDER    │   163   │   8    │
+│    10406     │      Pat Cummins      │  NON-STRIKER  │   163   │   8    │
+│    10445     │          XYZ          │    UMPIRE     │   163   │   8    │
+│    10456     │  BWL[Mohammed Siraj]  │    BOWLER     │   164   │   8    │
+│    10491     │     Glenn Maxwell     │    STRIKER    │   164   │   8    │
+│    10511     │    Ravindra Jadeja    │    FIELDER    │   164   │   8    │
+│    10566     │          XYZ          │    UMPIRE     │   164   │   8    │
+│    10575     │  BWL[Mohammed Siraj]  │    BOWLER     │   170   │   8    │
+│    10583     │     Glenn Maxwell     │    STRIKER    │   170   │   8    │
+│    10600     │          XYZ          │    UMPIRE     │   170   │   8    │
+└──────────────┴───────────────────────┴───────────────┴─────────┴────────┘
+
+============================================================
+  INNINGS START: India (CHASE)
+============================================================
+============================================================
+                  FULL MATCH REPORT
+============================================================
+
+                 BATTING SCORECARD                  
+┌────────────────────┬────────┬─────────┬──────────┐
+│        Name        │  Runs  │  Balls  │   S/R    │
+├────────────────────┼────────┼─────────┼──────────┤
+│    Rohit Sharma    │   0    │    1    │   0.00   │
+│    Virat Kohli     │   10   │    6    │  166.67  │
+│  Suryakumar Yadav  │   41   │   29    │  141.38  │
+│      KL Rahul      │   59   │   28    │  210.71  │
+│   Hardik Pandya    │   18   │   12    │  150.00  │
+│  Ravindra Jadeja   │   4    │    2    │  200.00  │
+│      MS Dhoni      │   2    │    3    │  66.67   │
+│     Axar Patel     │   11   │    5    │  220.00  │
+│   Jasprit Bumrah   │   27   │   18    │  150.00  │
+│   Mohammed Siraj   │   0    │    3    │   0.00   │
+│   Arshdeep Singh   │   0    │    1    │   0.00   │
+└────────────────────┴────────┴─────────┴──────────┘
+
+                       BOWLING SCORECARD                       
+┌──────────────────┬─────────┬────────┬───────────┬───────────┐
+│       Name       │  Overs  │  Runs  │  Wickets  │  Economy  │
+├──────────────────┼─────────┼────────┼───────────┼───────────┤
+│   Pat Cummins    │   3.0   │   30   │     5     │   10.00   │
+│  Mitchell Starc  │   3.0   │   30   │     1     │   10.00   │
+│  Josh Hazlewood  │   3.0   │   23   │     0     │   7.67    │
+│    Adam Zampa    │   3.0   │   29   │     1     │   9.67    │
+│  Glenn Maxwell   │   3.0   │   35   │     0     │   11.67   │
+│  Marcus Stoinis  │   3.0   │   25   │     2     │   8.33    │
+└──────────────────┴─────────┴────────┴───────────┴───────────┘
+
+BALL-BY-BALL LOG:
+
+                                             Over 1                                             
+┌────────┬───────────────┬──────────────────┬───────────────┬───────────────┬─────────┬────────┐
+│  Ball  │    Bowler     │     Striker      │  Non-striker  │    Result     │  Score  │  Wkts  │
+├────────┼───────────────┼──────────────────┼───────────────┼───────────────┼─────────┼────────┤
+│  0.1   │  Pat Cummins  │   Rohit Sharma   │  Virat Kohli  │   Run Out!    │    0    │   1    │
+│  0.2   │  Pat Cummins  │  Arshdeep Singh  │  Virat Kohli  │   WICKET!!    │    0    │   2    │
+│  0.3   │  Pat Cummins  │  Mohammed Siraj  │  Virat Kohli  │      DOT      │    0    │   2    │
+│  0.4   │  Pat Cummins  │  Mohammed Siraj  │  Virat Kohli  │      DOT      │    0    │   2    │
+│  0.5   │  Pat Cummins  │  Mohammed Siraj  │  Virat Kohli  │  Caught Out!  │    0    │   3    │
+│  0.6   │  Pat Cummins  │  Jasprit Bumrah  │  Virat Kohli  │     Wide      │    1    │   3    │
+│  0.6   │  Pat Cummins  │  Jasprit Bumrah  │  Virat Kohli  │   6 Runs!!!   │    7    │   3    │
+└────────┴───────────────┴──────────────────┴───────────────┴───────────────┴─────────┴────────┘
+
+                                             Over 2                                              
+┌────────┬──────────────────┬───────────────┬──────────────────┬─────────────┬─────────┬────────┐
+│  Ball  │      Bowler      │    Striker    │   Non-striker    │   Result    │  Score  │  Wkts  │
+├────────┼──────────────────┼───────────────┼──────────────────┼─────────────┼─────────┼────────┤
+│  1.1   │  Mitchell Starc  │  Virat Kohli  │  Jasprit Bumrah  │   4 Runs!   │   11    │   3    │
+│  1.2   │  Mitchell Starc  │  Virat Kohli  │  Jasprit Bumrah  │  6 Runs!!!  │   17    │   3    │
+│  1.3   │  Mitchell Starc  │  Virat Kohli  │  Jasprit Bumrah  │     DOT     │   17    │   3    │
+│  1.4   │  Mitchell Starc  │  Virat Kohli  │  Jasprit Bumrah  │     DOT     │   17    │   3    │
+│  1.5   │  Mitchell Starc  │  Virat Kohli  │  Jasprit Bumrah  │     DOT     │   17    │   3    │
+│  1.6   │  Mitchell Starc  │  Virat Kohli  │  Jasprit Bumrah  │  WICKET!!   │   17    │   4    │
+└────────┴──────────────────┴───────────────┴──────────────────┴─────────────┴─────────┴────────┘
+
+                                             Over 3                                              
+┌────────┬──────────────────┬──────────────────┬───────────────┬─────────────┬─────────┬────────┐
+│  Ball  │      Bowler      │     Striker      │  Non-striker  │   Result    │  Score  │  Wkts  │
+├────────┼──────────────────┼──────────────────┼───────────────┼─────────────┼─────────┼────────┤
+│  2.1   │  Josh Hazlewood  │  Jasprit Bumrah  │  Axar Patel   │  6 Runs!!!  │   23    │   4    │
+│  2.2   │  Josh Hazlewood  │  Jasprit Bumrah  │  Axar Patel   │   4 Runs!   │   27    │   4    │
+│  2.3   │  Josh Hazlewood  │  Jasprit Bumrah  │  Axar Patel   │     DOT     │   27    │   4    │
+│  2.4   │  Josh Hazlewood  │  Jasprit Bumrah  │  Axar Patel   │     DOT     │   27    │   4    │
+│  2.5   │  Josh Hazlewood  │  Jasprit Bumrah  │  Axar Patel   │     DOT     │   27    │   4    │
+│  2.6   │  Josh Hazlewood  │  Jasprit Bumrah  │  Axar Patel   │     DOT     │   27    │   4    │
+└────────┴──────────────────┴──────────────────┴───────────────┴─────────────┴─────────┴────────┘
+
+                                             Over 4                                             
+┌────────┬──────────────┬──────────────────┬──────────────────┬─────────────┬─────────┬────────┐
+│  Ball  │    Bowler    │     Striker      │   Non-striker    │   Result    │  Score  │  Wkts  │
+├────────┼──────────────┼──────────────────┼──────────────────┼─────────────┼─────────┼────────┤
+│  3.1   │  Adam Zampa  │    Axar Patel    │  Jasprit Bumrah  │  6 Runs!!!  │   33    │   4    │
+│  3.2   │  Adam Zampa  │    Axar Patel    │  Jasprit Bumrah  │   Single    │   34    │   4    │
+│  3.3   │  Adam Zampa  │  Jasprit Bumrah  │    Axar Patel    │     DOT     │   34    │   4    │
+│  3.4   │  Adam Zampa  │  Jasprit Bumrah  │    Axar Patel    │   Single    │   35    │   4    │
+│  3.5   │  Adam Zampa  │    Axar Patel    │  Jasprit Bumrah  │   4 Runs!   │   39    │   4    │
+│  3.6   │  Adam Zampa  │    Axar Patel    │  Jasprit Bumrah  │     DOT     │   39    │   4    │
+└────────┴──────────────┴──────────────────┴──────────────────┴─────────────┴─────────┴────────┘
+
+                                            Over 5                                            
+┌────────┬─────────────────┬──────────────────┬───────────────┬───────────┬─────────┬────────┐
+│  Ball  │     Bowler      │     Striker      │  Non-striker  │  Result   │  Score  │  Wkts  │
+├────────┼─────────────────┼──────────────────┼───────────────┼───────────┼─────────┼────────┤
+│  4.1   │  Glenn Maxwell  │  Jasprit Bumrah  │  Axar Patel   │  4 Runs!  │   43    │   4    │
+│  4.2   │  Glenn Maxwell  │  Jasprit Bumrah  │  Axar Patel   │  Double   │   45    │   4    │
+│  4.3   │  Glenn Maxwell  │  Jasprit Bumrah  │  Axar Patel   │  Double   │   47    │   4    │
+│  4.4   │  Glenn Maxwell  │  Jasprit Bumrah  │  Axar Patel   │    DOT    │   47    │   4    │
+│  4.5   │  Glenn Maxwell  │  Jasprit Bumrah  │  Axar Patel   │    DOT    │   47    │   4    │
+│  4.6   │  Glenn Maxwell  │  Jasprit Bumrah  │  Axar Patel   │  Single   │   48    │   4    │
+└────────┴─────────────────┴──────────────────┴───────────────┴───────────┴─────────┴────────┘
+
+                                               Over 6                                               
+┌────────┬──────────────────┬───────────────────┬───────────────┬───────────────┬─────────┬────────┐
+│  Ball  │      Bowler      │      Striker      │  Non-striker  │    Result     │  Score  │  Wkts  │
+├────────┼──────────────────┼───────────────────┼───────────────┼───────────────┼─────────┼────────┤
+│  5.1   │  Marcus Stoinis  │  Jasprit Bumrah   │  Axar Patel   │      DOT      │   48    │   4    │
+│  5.2   │  Marcus Stoinis  │  Jasprit Bumrah   │  Axar Patel   │      DOT      │   48    │   4    │
+│  5.3   │  Marcus Stoinis  │  Jasprit Bumrah   │  Axar Patel   │  Caught Out!  │   48    │   5    │
+│  5.4   │  Marcus Stoinis  │     MS Dhoni      │  Axar Patel   │    Single     │   49    │   5    │
+│  5.5   │  Marcus Stoinis  │    Axar Patel     │   MS Dhoni    │   WICKET!!    │   49    │   6    │
+│  5.6   │  Marcus Stoinis  │  Ravindra Jadeja  │   MS Dhoni    │    4 Runs!    │   53    │   6    │
+└────────┴──────────────────┴───────────────────┴───────────────┴───────────────┴─────────┴────────┘
+
+                                               Over 7                                                
+┌────────┬───────────────┬───────────────────┬───────────────────┬───────────────┬─────────┬────────┐
+│  Ball  │    Bowler     │      Striker      │    Non-striker    │    Result     │  Score  │  Wkts  │
+├────────┼───────────────┼───────────────────┼───────────────────┼───────────────┼─────────┼────────┤
+│  6.1   │  Pat Cummins  │     MS Dhoni      │  Ravindra Jadeja  │    Single     │   54    │   6    │
+│  6.2   │  Pat Cummins  │  Ravindra Jadeja  │     MS Dhoni      │  Caught Out!  │   54    │   7    │
+│  6.3   │  Pat Cummins  │   Hardik Pandya   │     MS Dhoni      │    Single     │   55    │   7    │
+│  6.4   │  Pat Cummins  │     MS Dhoni      │   Hardik Pandya   │   WICKET!!    │   55    │   8    │
+│  6.5   │  Pat Cummins  │     KL Rahul      │   Hardik Pandya   │    Single     │   56    │   8    │
+│  6.6   │  Pat Cummins  │   Hardik Pandya   │     KL Rahul      │    Double     │   58    │   8    │
+└────────┴───────────────┴───────────────────┴───────────────────┴───────────────┴─────────┴────────┘
+
+                                             Over 8                                             
+┌────────┬──────────────────┬─────────────────┬─────────────────┬───────────┬─────────┬────────┐
+│  Ball  │      Bowler      │     Striker     │   Non-striker   │  Result   │  Score  │  Wkts  │
+├────────┼──────────────────┼─────────────────┼─────────────────┼───────────┼─────────┼────────┤
+│  7.1   │  Mitchell Starc  │    KL Rahul     │  Hardik Pandya  │    DOT    │   58    │   8    │
+│  7.2   │  Mitchell Starc  │    KL Rahul     │  Hardik Pandya  │  Single   │   59    │   8    │
+│  7.3   │  Mitchell Starc  │  Hardik Pandya  │    KL Rahul     │  Double   │   61    │   8    │
+│  7.4   │  Mitchell Starc  │  Hardik Pandya  │    KL Rahul     │   Wide    │   62    │   8    │
+│  7.4   │  Mitchell Starc  │  Hardik Pandya  │    KL Rahul     │    DOT    │   62    │   8    │
+│  7.5   │  Mitchell Starc  │  Hardik Pandya  │    KL Rahul     │  Single   │   63    │   8    │
+│  7.6   │  Mitchell Starc  │    KL Rahul     │  Hardik Pandya  │  4 Runs!  │   67    │   8    │
+└────────┴──────────────────┴─────────────────┴─────────────────┴───────────┴─────────┴────────┘
+
+                                             Over 9                                             
+┌────────┬──────────────────┬─────────────────┬─────────────────┬───────────┬─────────┬────────┐
+│  Ball  │      Bowler      │     Striker     │   Non-striker   │  Result   │  Score  │  Wkts  │
+├────────┼──────────────────┼─────────────────┼─────────────────┼───────────┼─────────┼────────┤
+│  8.1   │  Josh Hazlewood  │  Hardik Pandya  │    KL Rahul     │  Single   │   68    │   8    │
+│  8.2   │  Josh Hazlewood  │    KL Rahul     │  Hardik Pandya  │  Single   │   69    │   8    │
+│  8.3   │  Josh Hazlewood  │  Hardik Pandya  │    KL Rahul     │  Single   │   70    │   8    │
+│  8.4   │  Josh Hazlewood  │    KL Rahul     │  Hardik Pandya  │  Single   │   71    │   8    │
+│  8.5   │  Josh Hazlewood  │  Hardik Pandya  │    KL Rahul     │    DOT    │   71    │   8    │
+│  8.6   │  Josh Hazlewood  │  Hardik Pandya  │    KL Rahul     │  4 Runs!  │   75    │   8    │
+└────────┴──────────────────┴─────────────────┴─────────────────┴───────────┴─────────┴────────┘
+
+                                           Over 10                                            
+┌────────┬──────────────┬─────────────────┬─────────────────┬─────────────┬─────────┬────────┐
+│  Ball  │    Bowler    │     Striker     │   Non-striker   │   Result    │  Score  │  Wkts  │
+├────────┼──────────────┼─────────────────┼─────────────────┼─────────────┼─────────┼────────┤
+│  9.1   │  Adam Zampa  │    KL Rahul     │  Hardik Pandya  │  6 Runs!!!  │   81    │   8    │
+│  9.2   │  Adam Zampa  │    KL Rahul     │  Hardik Pandya  │   Single    │   82    │   8    │
+│  9.3   │  Adam Zampa  │  Hardik Pandya  │    KL Rahul     │   4 Runs!   │   86    │   8    │
+│  9.4   │  Adam Zampa  │  Hardik Pandya  │    KL Rahul     │   Single    │   87    │   8    │
+│  9.5   │  Adam Zampa  │    KL Rahul     │  Hardik Pandya  │   Single    │   88    │   8    │
+│  9.6   │  Adam Zampa  │  Hardik Pandya  │    KL Rahul     │  WICKET!!   │   88    │   9    │
+└────────┴──────────────┴─────────────────┴─────────────────┴─────────────┴─────────┴────────┘
+
+                                                Over 11                                                
+┌────────┬─────────────────┬────────────────────┬────────────────────┬─────────────┬─────────┬────────┐
+│  Ball  │     Bowler      │      Striker       │    Non-striker     │   Result    │  Score  │  Wkts  │
+├────────┼─────────────────┼────────────────────┼────────────────────┼─────────────┼─────────┼────────┤
+│  10.1  │  Glenn Maxwell  │      KL Rahul      │  Suryakumar Yadav  │   Single    │   89    │   9    │
+│  10.2  │  Glenn Maxwell  │  Suryakumar Yadav  │      KL Rahul      │     DOT     │   89    │   9    │
+│  10.3  │  Glenn Maxwell  │  Suryakumar Yadav  │      KL Rahul      │     DOT     │   89    │   9    │
+│  10.4  │  Glenn Maxwell  │  Suryakumar Yadav  │      KL Rahul      │   Single    │   90    │   9    │
+│  10.5  │  Glenn Maxwell  │      KL Rahul      │  Suryakumar Yadav  │  6 Runs!!!  │   96    │   9    │
+│  10.6  │  Glenn Maxwell  │      KL Rahul      │  Suryakumar Yadav  │  6 Runs!!!  │   102   │   9    │
+└────────┴─────────────────┴────────────────────┴────────────────────┴─────────────┴─────────┴────────┘
+
+                                                Over 12                                                 
+┌────────┬──────────────────┬────────────────────┬────────────────────┬─────────────┬─────────┬────────┐
+│  Ball  │      Bowler      │      Striker       │    Non-striker     │   Result    │  Score  │  Wkts  │
+├────────┼──────────────────┼────────────────────┼────────────────────┼─────────────┼─────────┼────────┤
+│  11.1  │  Marcus Stoinis  │  Suryakumar Yadav  │      KL Rahul      │  6 Runs!!!  │   108   │   9    │
+│  11.2  │  Marcus Stoinis  │  Suryakumar Yadav  │      KL Rahul      │     DOT     │   108   │   9    │
+│  11.3  │  Marcus Stoinis  │  Suryakumar Yadav  │      KL Rahul      │     DOT     │   108   │   9    │
+│  11.4  │  Marcus Stoinis  │  Suryakumar Yadav  │      KL Rahul      │     DOT     │   108   │   9    │
+│  11.5  │  Marcus Stoinis  │  Suryakumar Yadav  │      KL Rahul      │   Single    │   109   │   9    │
+│  11.6  │  Marcus Stoinis  │      KL Rahul      │  Suryakumar Yadav  │     DOT     │   109   │   9    │
+└────────┴──────────────────┴────────────────────┴────────────────────┴─────────────┴─────────┴────────┘
+
+                                            Over 13                                             
+┌────────┬───────────────┬────────────────────┬───────────────┬─────────────┬─────────┬────────┐
+│  Ball  │    Bowler     │      Striker       │  Non-striker  │   Result    │  Score  │  Wkts  │
+├────────┼───────────────┼────────────────────┼───────────────┼─────────────┼─────────┼────────┤
+│  12.1  │  Pat Cummins  │  Suryakumar Yadav  │   KL Rahul    │   4 Runs!   │   113   │   9    │
+│  12.2  │  Pat Cummins  │  Suryakumar Yadav  │   KL Rahul    │     DOT     │   113   │   9    │
+│  12.3  │  Pat Cummins  │  Suryakumar Yadav  │   KL Rahul    │   4 Runs!   │   117   │   9    │
+│  12.4  │  Pat Cummins  │  Suryakumar Yadav  │   KL Rahul    │  6 Runs!!!  │   123   │   9    │
+│  12.5  │  Pat Cummins  │  Suryakumar Yadav  │   KL Rahul    │   4 Runs!   │   127   │   9    │
+│  12.6  │  Pat Cummins  │  Suryakumar Yadav  │   KL Rahul    │     DOT     │   127   │   9    │
+└────────┴───────────────┴────────────────────┴───────────────┴─────────────┴─────────┴────────┘
+
+                                               Over 14                                                
+┌────────┬──────────────────┬────────────────────┬────────────────────┬───────────┬─────────┬────────┐
+│  Ball  │      Bowler      │      Striker       │    Non-striker     │  Result   │  Score  │  Wkts  │
+├────────┼──────────────────┼────────────────────┼────────────────────┼───────────┼─────────┼────────┤
+│  13.1  │  Mitchell Starc  │      KL Rahul      │  Suryakumar Yadav  │  4 Runs!  │   131   │   9    │
+│  13.2  │  Mitchell Starc  │      KL Rahul      │  Suryakumar Yadav  │  4 Runs!  │   135   │   9    │
+│  13.3  │  Mitchell Starc  │      KL Rahul      │  Suryakumar Yadav  │  Single   │   136   │   9    │
+│  13.4  │  Mitchell Starc  │  Suryakumar Yadav  │      KL Rahul      │    DOT    │   136   │   9    │
+│  13.5  │  Mitchell Starc  │  Suryakumar Yadav  │      KL Rahul      │  Single   │   137   │   9    │
+│  13.6  │  Mitchell Starc  │      KL Rahul      │  Suryakumar Yadav  │  Single   │   138   │   9    │
+└────────┴──────────────────┴────────────────────┴────────────────────┴───────────┴─────────┴────────┘
+
+                                               Over 15                                               
+┌────────┬──────────────────┬────────────────────┬────────────────────┬──────────┬─────────┬────────┐
+│  Ball  │      Bowler      │      Striker       │    Non-striker     │  Result  │  Score  │  Wkts  │
+├────────┼──────────────────┼────────────────────┼────────────────────┼──────────┼─────────┼────────┤
+│  14.1  │  Josh Hazlewood  │      KL Rahul      │  Suryakumar Yadav  │  Single  │   139   │   9    │
+│  14.2  │  Josh Hazlewood  │  Suryakumar Yadav  │      KL Rahul      │  Single  │   140   │   9    │
+│  14.3  │  Josh Hazlewood  │      KL Rahul      │  Suryakumar Yadav  │   DOT    │   140   │   9    │
+│  14.4  │  Josh Hazlewood  │      KL Rahul      │  Suryakumar Yadav  │   Wide   │   141   │   9    │
+│  14.4  │  Josh Hazlewood  │      KL Rahul      │  Suryakumar Yadav  │   DOT    │   141   │   9    │
+│  14.5  │  Josh Hazlewood  │      KL Rahul      │  Suryakumar Yadav  │  Single  │   142   │   9    │
+│  14.6  │  Josh Hazlewood  │  Suryakumar Yadav  │      KL Rahul      │  Single  │   143   │   9    │
+└────────┴──────────────────┴────────────────────┴────────────────────┴──────────┴─────────┴────────┘
+
+                                           Over 16                                           
+┌────────┬──────────────┬────────────────────┬───────────────┬───────────┬─────────┬────────┐
+│  Ball  │    Bowler    │      Striker       │  Non-striker  │  Result   │  Score  │  Wkts  │
+├────────┼──────────────┼────────────────────┼───────────────┼───────────┼─────────┼────────┤
+│  15.1  │  Adam Zampa  │  Suryakumar Yadav  │   KL Rahul    │    DOT    │   143   │   9    │
+│  15.2  │  Adam Zampa  │  Suryakumar Yadav  │   KL Rahul    │    DOT    │   143   │   9    │
+│  15.3  │  Adam Zampa  │  Suryakumar Yadav  │   KL Rahul    │  4 Runs!  │   147   │   9    │
+│  15.4  │  Adam Zampa  │  Suryakumar Yadav  │   KL Rahul    │    DOT    │   147   │   9    │
+│  15.5  │  Adam Zampa  │  Suryakumar Yadav  │   KL Rahul    │    DOT    │   147   │   9    │
+│  15.6  │  Adam Zampa  │  Suryakumar Yadav  │   KL Rahul    │    DOT    │   147   │   9    │
+└────────┴──────────────┴────────────────────┴───────────────┴───────────┴─────────┴────────┘
+
+                                                Over 17                                                
+┌────────┬─────────────────┬────────────────────┬────────────────────┬─────────────┬─────────┬────────┐
+│  Ball  │     Bowler      │      Striker       │    Non-striker     │   Result    │  Score  │  Wkts  │
+├────────┼─────────────────┼────────────────────┼────────────────────┼─────────────┼─────────┼────────┤
+│  16.1  │  Glenn Maxwell  │      KL Rahul      │  Suryakumar Yadav  │   Single    │   148   │   9    │
+│  16.2  │  Glenn Maxwell  │  Suryakumar Yadav  │      KL Rahul      │     DOT     │   148   │   9    │
+│  16.3  │  Glenn Maxwell  │  Suryakumar Yadav  │      KL Rahul      │     DOT     │   148   │   9    │
+│  16.4  │  Glenn Maxwell  │  Suryakumar Yadav  │      KL Rahul      │   Single    │   149   │   9    │
+│  16.5  │  Glenn Maxwell  │      KL Rahul      │  Suryakumar Yadav  │   4 Runs!   │   153   │   9    │
+│  16.6  │  Glenn Maxwell  │      KL Rahul      │  Suryakumar Yadav  │  6 Runs!!!  │   159   │   9    │
+└────────┴─────────────────┴────────────────────┴────────────────────┴─────────────┴─────────┴────────┘
+
+                                                Over 18                                                 
+┌────────┬──────────────────┬────────────────────┬────────────────────┬─────────────┬─────────┬────────┐
+│  Ball  │      Bowler      │      Striker       │    Non-striker     │   Result    │  Score  │  Wkts  │
+├────────┼──────────────────┼────────────────────┼────────────────────┼─────────────┼─────────┼────────┤
+│  17.1  │  Marcus Stoinis  │  Suryakumar Yadav  │      KL Rahul      │  6 Runs!!!  │   165   │   9    │
+│  17.2  │  Marcus Stoinis  │  Suryakumar Yadav  │      KL Rahul      │   Single    │   166   │   9    │
+│  17.3  │  Marcus Stoinis  │      KL Rahul      │  Suryakumar Yadav  │     DOT     │   166   │   9    │
+│  17.4  │  Marcus Stoinis  │      KL Rahul      │  Suryakumar Yadav  │     DOT     │   166   │   9    │
+│  17.5  │  Marcus Stoinis  │      KL Rahul      │  Suryakumar Yadav  │     DOT     │   166   │   9    │
+│  17.6  │  Marcus Stoinis  │      KL Rahul      │  Suryakumar Yadav  │  6 Runs!!!  │   172   │   9    │
+└────────┴──────────────────┴────────────────────┴────────────────────┴─────────────┴─────────┴────────┘
+
+RESOURCE TIMELINE LOG:
+
+                 GANTT CHART (Pitch Resource Timeline)                  
+┌──────────────┬────────────────────┬───────────────┬─────────┬────────┐
+│  Tick (µs)  │       Thread       │     Event     │  Score  │  Wkts  │
+├──────────────┼────────────────────┼───────────────┼─────────┼────────┤
+│      7       │  BWL[Pat Cummins]  │    BOWLER     │    0    │   0    │
+│      15      │    Rohit Sharma    │    STRIKER    │    0    │   0    │
+│      32      │   Mitchell Starc   │    FIELDER    │    0    │   0    │
+│      43      │    Virat Kohli     │  NON-STRIKER  │    0    │   0    │
+│     133      │        XYZ         │    UMPIRE     │    0    │   0    │
+│     162      │  BWL[Pat Cummins]  │    BOWLER     │    0    │   1    │
+│     168      │   Arshdeep Singh   │    STRIKER    │    0    │   1    │
+│     200      │        XYZ         │    UMPIRE     │    0    │   1    │
+│     269      │  BWL[Pat Cummins]  │    BOWLER     │    0    │   2    │
+│     283      │   Mohammed Siraj   │    STRIKER    │    0    │   2    │
+│     305      │        XYZ         │    UMPIRE     │    0    │   2    │
+│     311      │  BWL[Pat Cummins]  │    BOWLER     │    0    │   2    │
+│     324      │   Mohammed Siraj   │    STRIKER    │    0    │   2    │
+│     344      │        XYZ         │    UMPIRE     │    0    │   2    │
+│     350      │  BWL[Pat Cummins]  │    BOWLER     │    0    │   2    │
+│     364      │   Mohammed Siraj   │    STRIKER    │    0    │   2    │
+│     377      │  Matthew Wade(WK)  │    FIELDER    │    0    │   2    │
+│     414      │        XYZ         │    UMPIRE     │    0    │   2    │
+│     444      │  BWL[Pat Cummins]  │    BOWLER     │    0    │   3    │
+│     465      │        XYZ         │    UMPIRE     │    0    │   3    │
+│     470      │  BWL[Pat Cummins]  │    BOWLER     │    1    │   3    │
+│     487      │   Jasprit Bumrah   │    STRIKER    │    1    │   3    │
+│     500      │    Steven Smith    │    FIELDER    │    1    │   3    │
+│     564      │        XYZ         │    UMPIRE     │    1    │   3    │
+│     570      │  BWL[Pat Cummins]  │    BOWLER     │    7    │   3    │
+│     583      │   Jasprit Bumrah   │    STRIKER    │    7    │   3    │
+│     596      │    Travis Head     │    FIELDER    │    7    │   3    │
+│     644      │        XYZ         │    UMPIRE     │    7    │   3    │
+│     650      │  BWL[Pat Cummins]  │    BOWLER     │   11    │   3    │
+│     665      │   Jasprit Bumrah   │    STRIKER    │   11    │   3    │
+│     678      │     Adam Zampa     │    FIELDER    │   11    │   3    │
+│     711      │        XYZ         │    UMPIRE     │   11    │   3    │
+│     735      │  BWL[Pat Cummins]  │    BOWLER     │   17    │   3    │
+│     743      │   Jasprit Bumrah   │    STRIKER    │   17    │   3    │
+│     771      │        XYZ         │    UMPIRE     │   17    │   3    │
+│     776      │  BWL[Pat Cummins]  │    BOWLER     │   17    │   3    │
+│     783      │   Jasprit Bumrah   │    STRIKER    │   17    │   3    │
+│     807      │        XYZ         │    UMPIRE     │   17    │   3    │
+│     819      │  BWL[Pat Cummins]  │    BOWLER     │   17    │   3    │
+│     844      │   Jasprit Bumrah   │    STRIKER    │   17    │   3    │
+│     865      │        XYZ         │    UMPIRE     │   17    │   3    │
+│     870      │  BWL[Pat Cummins]  │    BOWLER     │   17    │   3    │
+│     884      │   Jasprit Bumrah   │    STRIKER    │   17    │   3    │
+│     907      │        XYZ         │    UMPIRE     │   17    │   3    │
+│     923      │  BWL[Pat Cummins]  │    BOWLER     │   17    │   4    │
+│     936      │     Axar Patel     │    STRIKER    │   17    │   4    │
+│     950      │   Glenn Maxwell    │    FIELDER    │   17    │   4    │
+│     1024     │        XYZ         │    UMPIRE     │   17    │   4    │
+│     1029     │  BWL[Pat Cummins]  │    BOWLER     │   23    │   4    │
+│     1042     │     Axar Patel     │    STRIKER    │   23    │   4    │
+│     1055     │   Glenn Maxwell    │    FIELDER    │   23    │   4    │
+│     1091     │        XYZ         │    UMPIRE     │   23    │   4    │
+│     1096     │  BWL[Pat Cummins]  │    BOWLER     │   27    │   4    │
+│     1135     │     Axar Patel     │    STRIKER    │   27    │   4    │
+│     1154     │        XYZ         │    UMPIRE     │   27    │   4    │
+│     1160     │  BWL[Pat Cummins]  │    BOWLER     │   27    │   4    │
+│     1167     │     Axar Patel     │    STRIKER    │   27    │   4    │
+│     1189     │        XYZ         │    UMPIRE     │   27    │   4    │
+│     1195     │  BWL[Pat Cummins]  │    BOWLER     │   27    │   4    │
+│     1209     │     Axar Patel     │    STRIKER    │   27    │   4    │
+│     1230     │        XYZ         │    UMPIRE     │   27    │   4    │
+│     1235     │  BWL[Pat Cummins]  │    BOWLER     │   27    │   4    │
+│     1249     │     Axar Patel     │    STRIKER    │   27    │   4    │
+│     1270     │        XYZ         │    UMPIRE     │   27    │   4    │
+│     1275     │  BWL[Pat Cummins]  │    BOWLER     │   27    │   4    │
+│     1289     │     Axar Patel     │    STRIKER    │   27    │   4    │
+│     1301     │    Travis Head     │    FIELDER    │   27    │   4    │
+│     1346     │        XYZ         │    UMPIRE     │   27    │   4    │
+│     1352     │  BWL[Pat Cummins]  │    BOWLER     │   33    │   4    │
+│     1368     │     Axar Patel     │    STRIKER    │   33    │   4    │
+│     1381     │   Mitchell Starc   │    FIELDER    │   33    │   4    │
+│     1393     │    Virat Kohli     │  NON-STRIKER  │   33    │   4    │
+│     1438     │        XYZ         │    UMPIRE     │   33    │   4    │
+│     1459     │  BWL[Pat Cummins]  │    BOWLER     │   34    │   4    │
+│     1464     │     Axar Patel     │    STRIKER    │   34    │   4    │
+│     1487     │        XYZ         │    UMPIRE     │   34    │   4    │
+│     1492     │  BWL[Pat Cummins]  │    BOWLER     │   34    │   4    │
+│     1505     │     Axar Patel     │    STRIKER    │   34    │   4    │
+│     1517     │     Adam Zampa     │    FIELDER    │   34    │   4    │
+│     1529     │    Virat Kohli     │  NON-STRIKER  │   34    │   4    │
+│     1571     │        XYZ         │    UMPIRE     │   34    │   4    │
+│     1592     │  BWL[Pat Cummins]  │    BOWLER     │   35    │   4    │
+│     1599     │     Axar Patel     │    STRIKER    │   35    │   4    │
+│     1614     │   Mitchell Starc   │    FIELDER    │   35    │   4    │
+│     1645     │        XYZ         │    UMPIRE     │   35    │   4    │
+│     1651     │  BWL[Pat Cummins]  │    BOWLER     │   39    │   4    │
+│     1656     │     Axar Patel     │    STRIKER    │   39    │   4    │
+│     1690     │        XYZ         │    UMPIRE     │   39    │   4    │
+│     1700     │  BWL[Pat Cummins]  │    BOWLER     │   39    │   4    │
+│     1707     │     Axar Patel     │    STRIKER    │   39    │   4    │
+│     1727     │    Pat Cummins     │    FIELDER    │   39    │   4    │
+│     1761     │        XYZ         │    UMPIRE     │   39    │   4    │
+│     1802     │  BWL[Pat Cummins]  │    BOWLER     │   43    │   4    │
+│     1817     │     Axar Patel     │    STRIKER    │   43    │   4    │
+│     1830     │    Pat Cummins     │    FIELDER    │   43    │   4    │
+│     1841     │    Virat Kohli     │  NON-STRIKER  │   43    │   4    │
+│     1883     │        XYZ         │    UMPIRE     │   43    │   4    │
+│     1899     │  BWL[Pat Cummins]  │    BOWLER     │   45    │   4    │
+│     1904     │     Axar Patel     │    STRIKER    │   45    │   4    │
+│     1919     │    Steven Smith    │    FIELDER    │   45    │   4    │
+│     1931     │    Virat Kohli     │  NON-STRIKER  │   45    │   4    │
+│     1981     │        XYZ         │    UMPIRE     │   45    │   4    │
+│     1987     │  BWL[Pat Cummins]  │    BOWLER     │   47    │   4    │
+│     2000     │     Axar Patel     │    STRIKER    │   47    │   4    │
+│     2021     │        XYZ         │    UMPIRE     │   47    │   4    │
+│     2026     │  BWL[Pat Cummins]  │    BOWLER     │   47    │   4    │
+│     2039     │     Axar Patel     │    STRIKER    │   47    │   4    │
+│     2059     │        XYZ         │    UMPIRE     │   47    │   4    │
+│     2065     │  BWL[Pat Cummins]  │    BOWLER     │   47    │   4    │
+│     2078     │     Axar Patel     │    STRIKER    │   47    │   4    │
+│     2091     │    Pat Cummins     │    FIELDER    │   47    │   4    │
+│     2102     │    Virat Kohli     │  NON-STRIKER  │   47    │   4    │
+│     2140     │        XYZ         │    UMPIRE     │   47    │   4    │
+│     2160     │  BWL[Pat Cummins]  │    BOWLER     │   48    │   4    │
+│     2175     │     Axar Patel     │    STRIKER    │   48    │   4    │
+│     2195     │        XYZ         │    UMPIRE     │   48    │   4    │
+│     2200     │  BWL[Pat Cummins]  │    BOWLER     │   48    │   4    │
+│     2214     │     Axar Patel     │    STRIKER    │   48    │   4    │
+│     2234     │        XYZ         │    UMPIRE     │   48    │   4    │
+│     2239     │  BWL[Pat Cummins]  │    BOWLER     │   48    │   4    │
+│     2253     │     Axar Patel     │    STRIKER    │   48    │   4    │
+│     2266     │    David Warner    │    FIELDER    │   48    │   4    │
+│     2317     │        XYZ         │    UMPIRE     │   48    │   4    │
+│     2336     │  BWL[Pat Cummins]  │    BOWLER     │   48    │   5    │
+│     2351     │      MS Dhoni      │    STRIKER    │   48    │   5    │
+│     2364     │    Pat Cummins     │    FIELDER    │   48    │   5    │
+│     2372     │    Virat Kohli     │  NON-STRIKER  │   48    │   5    │
+│     2418     │        XYZ         │    UMPIRE     │   48    │   5    │
+│     2424     │  BWL[Pat Cummins]  │    BOWLER     │   49    │   5    │
+│     2438     │      MS Dhoni      │    STRIKER    │   49    │   5    │
+│     2460     │        XYZ         │    UMPIRE     │   49    │   5    │
+│     2472     │  BWL[Pat Cummins]  │    BOWLER     │   49    │   6    │
+│     2489     │  Ravindra Jadeja   │    STRIKER    │   49    │   6    │
+│     2502     │   Marcus Stoinis   │    FIELDER    │   49    │   6    │
+│     2551     │        XYZ         │    UMPIRE     │   49    │   6    │
+│     2557     │  BWL[Pat Cummins]  │    BOWLER     │   53    │   6    │
+│     2588     │  Ravindra Jadeja   │    STRIKER    │   53    │   6    │
+│     2610     │    David Warner    │    FIELDER    │   53    │   6    │
+│     2701     │    Virat Kohli     │  NON-STRIKER  │   53    │   6    │
+│     2753     │        XYZ         │    UMPIRE     │   53    │   6    │
+│     2758     │  BWL[Pat Cummins]  │    BOWLER     │   54    │   6    │
+│     2763     │  Ravindra Jadeja   │    STRIKER    │   54    │   6    │
+│     2778     │   Marcus Stoinis   │    FIELDER    │   54    │   6    │
+│     2813     │        XYZ         │    UMPIRE     │   54    │   6    │
+│     2843     │  BWL[Pat Cummins]  │    BOWLER     │   54    │   7    │
+│     2854     │   Hardik Pandya    │    STRIKER    │   54    │   7    │
+│     2869     │   Josh Hazlewood   │    FIELDER    │   54    │   7    │
+│     2883     │    Virat Kohli     │  NON-STRIKER  │   54    │   7    │
+│     2947     │        XYZ         │    UMPIRE     │   54    │   7    │
+│     2990     │  BWL[Pat Cummins]  │    BOWLER     │   55    │   7    │
+│     3003     │   Hardik Pandya    │    STRIKER    │   55    │   7    │
+│     3026     │        XYZ         │    UMPIRE     │   55    │   7    │
+│     3042     │  BWL[Pat Cummins]  │    BOWLER     │   55    │   8    │
+│     3055     │      KL Rahul      │    STRIKER    │   55    │   8    │
+│     3069     │    Steven Smith    │    FIELDER    │   55    │   8    │
+│     3081     │    Virat Kohli     │  NON-STRIKER  │   55    │   8    │
+│     3121     │        XYZ         │    UMPIRE     │   55    │   8    │
+│     3136     │  BWL[Pat Cummins]  │    BOWLER     │   56    │   8    │
+│     3140     │      KL Rahul      │    STRIKER    │   56    │   8    │
+│     3154     │   Josh Hazlewood   │    FIELDER    │   56    │   8    │
+│     3167     │    Virat Kohli     │  NON-STRIKER  │   56    │   8    │
+│     3213     │        XYZ         │    UMPIRE     │   56    │   8    │
+│     3219     │  BWL[Pat Cummins]  │    BOWLER     │   58    │   8    │
+│     3233     │      KL Rahul      │    STRIKER    │   58    │   8    │
+│     3253     │        XYZ         │    UMPIRE     │   58    │   8    │
+│     3258     │  BWL[Pat Cummins]  │    BOWLER     │   58    │   8    │
+│     3272     │      KL Rahul      │    STRIKER    │   58    │   8    │
+│     3284     │     Adam Zampa     │    FIELDER    │   58    │   8    │
+│     3295     │    Virat Kohli     │  NON-STRIKER  │   58    │   8    │
+│     3334     │        XYZ         │    UMPIRE     │   58    │   8    │
+│     3340     │  BWL[Pat Cummins]  │    BOWLER     │   59    │   8    │
+│     3354     │      KL Rahul      │    STRIKER    │   59    │   8    │
+│     3367     │   Josh Hazlewood   │    FIELDER    │   59    │   8    │
+│     3376     │    Virat Kohli     │  NON-STRIKER  │   59    │   8    │
+│     3423     │        XYZ         │    UMPIRE     │   59    │   8    │
+│     3429     │  BWL[Pat Cummins]  │    BOWLER     │   61    │   8    │
+│     3449     │        XYZ         │    UMPIRE     │   61    │   8    │
+│     3455     │  BWL[Pat Cummins]  │    BOWLER     │   62    │   8    │
+│     3468     │      KL Rahul      │    STRIKER    │   62    │   8    │
+│     3489     │        XYZ         │    UMPIRE     │   62    │   8    │
+│     3494     │  BWL[Pat Cummins]  │    BOWLER     │   62    │   8    │
+│     3507     │      KL Rahul      │    STRIKER    │   62    │   8    │
+│     3519     │   Mitchell Starc   │    FIELDER    │   62    │   8    │
+│     3530     │    Virat Kohli     │  NON-STRIKER  │   62    │   8    │
+│     3570     │        XYZ         │    UMPIRE     │   62    │   8    │
+│     3575     │  BWL[Pat Cummins]  │    BOWLER     │   63    │   8    │
+│     3591     │      KL Rahul      │    STRIKER    │   63    │   8    │
+│     3604     │   Josh Hazlewood   │    FIELDER    │   63    │   8    │
+│     3656     │        XYZ         │    UMPIRE     │   63    │   8    │
+│     3661     │  BWL[Pat Cummins]  │    BOWLER     │   67    │   8    │
+│     3672     │      KL Rahul      │    STRIKER    │   67    │   8    │
+│     3693     │   Mitchell Starc   │    FIELDER    │   67    │   8    │
+│     3725     │    Virat Kohli     │  NON-STRIKER  │   67    │   8    │
+│     3774     │        XYZ         │    UMPIRE     │   67    │   8    │
+│     3800     │  BWL[Pat Cummins]  │    BOWLER     │   68    │   8    │
+│     3806     │      KL Rahul      │    STRIKER    │   68    │   8    │
+│     3820     │    David Warner    │    FIELDER    │   68    │   8    │
+│     3835     │    Virat Kohli     │  NON-STRIKER  │   68    │   8    │
+│     3872     │        XYZ         │    UMPIRE     │   68    │   8    │
+│     3889     │  BWL[Pat Cummins]  │    BOWLER     │   69    │   8    │
+│     3903     │      KL Rahul      │    STRIKER    │   69    │   8    │
+│     3916     │    Steven Smith    │    FIELDER    │   69    │   8    │
+│     3927     │    Virat Kohli     │  NON-STRIKER  │   69    │   8    │
+│     3968     │        XYZ         │    UMPIRE     │   69    │   8    │
+│     3982     │  BWL[Pat Cummins]  │    BOWLER     │   70    │   8    │
+│     3987     │      KL Rahul      │    STRIKER    │   70    │   8    │
+│     4002     │   Glenn Maxwell    │    FIELDER    │   70    │   8    │
+│     4013     │    Virat Kohli     │  NON-STRIKER  │   70    │   8    │
+│     4051     │        XYZ         │    UMPIRE     │   70    │   8    │
+│     4065     │  BWL[Pat Cummins]  │    BOWLER     │   71    │   8    │
+│     4071     │      KL Rahul      │    STRIKER    │   71    │   8    │
+│     4092     │        XYZ         │    UMPIRE     │   71    │   8    │
+│     4098     │  BWL[Pat Cummins]  │    BOWLER     │   71    │   8    │
+│     4103     │      KL Rahul      │    STRIKER    │   71    │   8    │
+│     4124     │    Steven Smith    │    FIELDER    │   71    │   8    │
+│     4165     │        XYZ         │    UMPIRE     │   71    │   8    │
+│     4172     │  BWL[Pat Cummins]  │    BOWLER     │   75    │   8    │
+│     4201     │      KL Rahul      │    STRIKER    │   75    │   8    │
+│     4213     │     Adam Zampa     │    FIELDER    │   75    │   8    │
+│     4246     │        XYZ         │    UMPIRE     │   75    │   8    │
+│     4251     │  BWL[Pat Cummins]  │    BOWLER     │   81    │   8    │
+│     4257     │      KL Rahul      │    STRIKER    │   81    │   8    │
+│     4265     │   Marcus Stoinis   │    FIELDER    │   81    │   8    │
+│     4337     │    Virat Kohli     │  NON-STRIKER  │   81    │   8    │
+│     4391     │        XYZ         │    UMPIRE     │   81    │   8    │
+│     4410     │  BWL[Pat Cummins]  │    BOWLER     │   82    │   8    │
+│     4424     │      KL Rahul      │    STRIKER    │   82    │   8    │
+│     4437     │  Matthew Wade(WK)  │    FIELDER    │   82    │   8    │
+│     4472     │        XYZ         │    UMPIRE     │   82    │   8    │
+│     4477     │  BWL[Pat Cummins]  │    BOWLER     │   86    │   8    │
+│     4515     │      KL Rahul      │    STRIKER    │   86    │   8    │
+│     4532     │     Tim David      │    FIELDER    │   86    │   8    │
+│     4542     │    Virat Kohli     │  NON-STRIKER  │   86    │   8    │
+│     4608     │        XYZ         │    UMPIRE     │   86    │   8    │
+│     4613     │  BWL[Pat Cummins]  │    BOWLER     │   87    │   8    │
+│     4618     │      KL Rahul      │    STRIKER    │   87    │   8    │
+│     4633     │   Marcus Stoinis   │    FIELDER    │   87    │   8    │
+│     4645     │    Virat Kohli     │  NON-STRIKER  │   87    │   8    │
+│     4682     │        XYZ         │    UMPIRE     │   87    │   8    │
+│     4687     │  BWL[Pat Cummins]  │    BOWLER     │   88    │   8    │
+│     4701     │      KL Rahul      │    STRIKER    │   88    │   8    │
+│     4723     │        XYZ         │    UMPIRE     │   88    │   8    │
+│     4738     │  BWL[Pat Cummins]  │    BOWLER     │   88    │   9    │
+│     4751     │  Suryakumar Yadav  │    STRIKER    │   88    │   9    │
+│     4763     │   Mitchell Starc   │    FIELDER    │   88    │   9    │
+│     4772     │    Virat Kohli     │  NON-STRIKER  │   88    │   9    │
+│     4816     │        XYZ         │    UMPIRE     │   88    │   9    │
+│     4831     │  BWL[Pat Cummins]  │    BOWLER     │   89    │   9    │
+│     4837     │  Suryakumar Yadav  │    STRIKER    │   89    │   9    │
+│     4859     │        XYZ         │    UMPIRE     │   89    │   9    │
+│     4864     │  BWL[Pat Cummins]  │    BOWLER     │   89    │   9    │
+│     4871     │  Suryakumar Yadav  │    STRIKER    │   89    │   9    │
+│     4892     │        XYZ         │    UMPIRE     │   89    │   9    │
+│     4897     │  BWL[Pat Cummins]  │    BOWLER     │   89    │   9    │
+│     4902     │  Suryakumar Yadav  │    STRIKER    │   89    │   9    │
+│     4916     │    David Warner    │    FIELDER    │   89    │   9    │
+│     4928     │    Virat Kohli     │  NON-STRIKER  │   89    │   9    │
+│     4975     │        XYZ         │    UMPIRE     │   89    │   9    │
+│     4990     │  BWL[Pat Cummins]  │    BOWLER     │   90    │   9    │
+│     5004     │  Suryakumar Yadav  │    STRIKER    │   90    │   9    │
+│     5016     │  Matthew Wade(WK)  │    FIELDER    │   90    │   9    │
+│     5064     │        XYZ         │    UMPIRE     │   90    │   9    │
+│     5069     │  BWL[Pat Cummins]  │    BOWLER     │   96    │   9    │
+│     5097     │  Suryakumar Yadav  │    STRIKER    │   96    │   9    │
+│     5110     │    Pat Cummins     │    FIELDER    │   96    │   9    │
+│     5167     │        XYZ         │    UMPIRE     │   96    │   9    │
+│     5173     │  BWL[Pat Cummins]  │    BOWLER     │   102   │   9    │
+│     5188     │  Suryakumar Yadav  │    STRIKER    │   102   │   9    │
+│     5201     │   Mitchell Starc   │    FIELDER    │   102   │   9    │
+│     5235     │        XYZ         │    UMPIRE     │   102   │   9    │
+│     5240     │  BWL[Pat Cummins]  │    BOWLER     │   108   │   9    │
+│     5246     │  Suryakumar Yadav  │    STRIKER    │   108   │   9    │
+│     5275     │        XYZ         │    UMPIRE     │   108   │   9    │
+│     5282     │  BWL[Pat Cummins]  │    BOWLER     │   108   │   9    │
+│     5293     │  Suryakumar Yadav  │    STRIKER    │   108   │   9    │
+│     5324     │        XYZ         │    UMPIRE     │   108   │   9    │
+│     5329     │  BWL[Pat Cummins]  │    BOWLER     │   108   │   9    │
+│     5344     │  Suryakumar Yadav  │    STRIKER    │   108   │   9    │
+│     5366     │        XYZ         │    UMPIRE     │   108   │   9    │
+│     5371     │  BWL[Pat Cummins]  │    BOWLER     │   108   │   9    │
+│     5385     │  Suryakumar Yadav  │    STRIKER    │   108   │   9    │
+│     5397     │   Mitchell Starc   │    FIELDER    │   108   │   9    │
+│     5408     │    Virat Kohli     │  NON-STRIKER  │   108   │   9    │
+│     5456     │        XYZ         │    UMPIRE     │   108   │   9    │
+│     5472     │  BWL[Pat Cummins]  │    BOWLER     │   109   │   9    │
+│     5486     │  Suryakumar Yadav  │    STRIKER    │   109   │   9    │
+│     5506     │        XYZ         │    UMPIRE     │   109   │   9    │
+│     5511     │  BWL[Pat Cummins]  │    BOWLER     │   109   │   9    │
+│     5524     │  Suryakumar Yadav  │    STRIKER    │   109   │   9    │
+│     5538     │   Josh Hazlewood   │    FIELDER    │   109   │   9    │
+│     5582     │        XYZ         │    UMPIRE     │   109   │   9    │
+│     5588     │  BWL[Pat Cummins]  │    BOWLER     │   113   │   9    │
+│     5608     │  Suryakumar Yadav  │    STRIKER    │   113   │   9    │
+│     5628     │        XYZ         │    UMPIRE     │   113   │   9    │
+│     5633     │  BWL[Pat Cummins]  │    BOWLER     │   113   │   9    │
+│     5647     │  Suryakumar Yadav  │    STRIKER    │   113   │   9    │
+│     5660     │   Mitchell Starc   │    FIELDER    │   113   │   9    │
+│     5706     │        XYZ         │    UMPIRE     │   113   │   9    │
+│     5711     │  BWL[Pat Cummins]  │    BOWLER     │   117   │   9    │
+│     5727     │  Suryakumar Yadav  │    STRIKER    │   117   │   9    │
+│     5740     │   Marcus Stoinis   │    FIELDER    │   117   │   9    │
+│     5787     │        XYZ         │    UMPIRE     │   117   │   9    │
+│     5792     │  BWL[Pat Cummins]  │    BOWLER     │   123   │   9    │
+│     5805     │  Suryakumar Yadav  │    STRIKER    │   123   │   9    │
+│     5816     │    Travis Head     │    FIELDER    │   123   │   9    │
+│     5856     │        XYZ         │    UMPIRE     │   123   │   9    │
+│     5861     │  BWL[Pat Cummins]  │    BOWLER     │   127   │   9    │
+│     5899     │  Suryakumar Yadav  │    STRIKER    │   127   │   9    │
+│     5918     │        XYZ         │    UMPIRE     │   127   │   9    │
+│     5923     │  BWL[Pat Cummins]  │    BOWLER     │   127   │   9    │
+│     5935     │  Suryakumar Yadav  │    STRIKER    │   127   │   9    │
+│     5946     │    Pat Cummins     │    FIELDER    │   127   │   9    │
+│     5979     │        XYZ         │    UMPIRE     │   127   │   9    │
+│     5984     │  BWL[Pat Cummins]  │    BOWLER     │   131   │   9    │
+│     6013     │  Suryakumar Yadav  │    STRIKER    │   131   │   9    │
+│     6028     │    David Warner    │    FIELDER    │   131   │   9    │
+│     6092     │        XYZ         │    UMPIRE     │   131   │   9    │
+│     6097     │  BWL[Pat Cummins]  │    BOWLER     │   135   │   9    │
+│     6115     │  Suryakumar Yadav  │    STRIKER    │   135   │   9    │
+│     6128     │    Pat Cummins     │    FIELDER    │   135   │   9    │
+│     6139     │    Virat Kohli     │  NON-STRIKER  │   135   │   9    │
+│     6181     │        XYZ         │    UMPIRE     │   135   │   9    │
+│     6195     │  BWL[Pat Cummins]  │    BOWLER     │   136   │   9    │
+│     6200     │  Suryakumar Yadav  │    STRIKER    │   136   │   9    │
+│     6220     │        XYZ         │    UMPIRE     │   136   │   9    │
+│     6224     │  BWL[Pat Cummins]  │    BOWLER     │   136   │   9    │
+│     6229     │  Suryakumar Yadav  │    STRIKER    │   136   │   9    │
+│     6240     │   Josh Hazlewood   │    FIELDER    │   136   │   9    │
+│     6250     │    Virat Kohli     │  NON-STRIKER  │   136   │   9    │
+│     6293     │        XYZ         │    UMPIRE     │   136   │   9    │
+│     6307     │  BWL[Pat Cummins]  │    BOWLER     │   137   │   9    │
+│     6319     │  Suryakumar Yadav  │    STRIKER    │   137   │   9    │
+│     6330     │  Matthew Wade(WK)  │    FIELDER    │   137   │   9    │
+│     6336     │    Virat Kohli     │  NON-STRIKER  │   137   │   9    │
+│     6384     │        XYZ         │    UMPIRE     │   137   │   9    │
+│     6401     │  BWL[Pat Cummins]  │    BOWLER     │   138   │   9    │
+│     6406     │  Suryakumar Yadav  │    STRIKER    │   138   │   9    │
+│     6418     │     Adam Zampa     │    FIELDER    │   138   │   9    │
+│     6428     │    Virat Kohli     │  NON-STRIKER  │   138   │   9    │
+│     6470     │        XYZ         │    UMPIRE     │   138   │   9    │
+│     6474     │  BWL[Pat Cummins]  │    BOWLER     │   139   │   9    │
+│     6478     │  Suryakumar Yadav  │    STRIKER    │   139   │   9    │
+│     6492     │    Steven Smith    │    FIELDER    │   139   │   9    │
+│     6501     │    Virat Kohli     │  NON-STRIKER  │   139   │   9    │
+│     6543     │        XYZ         │    UMPIRE     │   139   │   9    │
+│     6547     │  BWL[Pat Cummins]  │    BOWLER     │   140   │   9    │
+│     6551     │  Suryakumar Yadav  │    STRIKER    │   140   │   9    │
+│     6574     │        XYZ         │    UMPIRE     │   140   │   9    │
+│     6579     │  BWL[Pat Cummins]  │    BOWLER     │   140   │   9    │
+│     6599     │        XYZ         │    UMPIRE     │   140   │   9    │
+│     6604     │  BWL[Pat Cummins]  │    BOWLER     │   141   │   9    │
+│     6607     │  Suryakumar Yadav  │    STRIKER    │   141   │   9    │
+│     6626     │        XYZ         │    UMPIRE     │   141   │   9    │
+│     6631     │  BWL[Pat Cummins]  │    BOWLER     │   141   │   9    │
+│     6634     │  Suryakumar Yadav  │    STRIKER    │   141   │   9    │
+│     6653     │   Mitchell Starc   │    FIELDER    │   141   │   9    │
+│     6667     │    Virat Kohli     │  NON-STRIKER  │   141   │   9    │
+│     6723     │        XYZ         │    UMPIRE     │   141   │   9    │
+│     6746     │  BWL[Pat Cummins]  │    BOWLER     │   142   │   9    │
+│     6757     │  Suryakumar Yadav  │    STRIKER    │   142   │   9    │
+│     6768     │   Glenn Maxwell    │    FIELDER    │   142   │   9    │
+│     6779     │    Virat Kohli     │  NON-STRIKER  │   142   │   9    │
+│     6820     │        XYZ         │    UMPIRE     │   142   │   9    │
+│     6840     │  BWL[Pat Cummins]  │    BOWLER     │   143   │   9    │
+│     6852     │  Suryakumar Yadav  │    STRIKER    │   143   │   9    │
+│     6871     │        XYZ         │    UMPIRE     │   143   │   9    │
+│     6876     │  BWL[Pat Cummins]  │    BOWLER     │   143   │   9    │
+│     6888     │  Suryakumar Yadav  │    STRIKER    │   143   │   9    │
+│     6907     │        XYZ         │    UMPIRE     │   143   │   9    │
+│     6911     │  BWL[Pat Cummins]  │    BOWLER     │   143   │   9    │
+│     6923     │  Suryakumar Yadav  │    STRIKER    │   143   │   9    │
+│     6934     │   Mitchell Starc   │    FIELDER    │   143   │   9    │
+│     6977     │        XYZ         │    UMPIRE     │   143   │   9    │
+│     6981     │  BWL[Pat Cummins]  │    BOWLER     │   147   │   9    │
+│     7003     │  Suryakumar Yadav  │    STRIKER    │   147   │   9    │
+│     7027     │        XYZ         │    UMPIRE     │   147   │   9    │
+│     7032     │  BWL[Pat Cummins]  │    BOWLER     │   147   │   9    │
+│     7063     │  Suryakumar Yadav  │    STRIKER    │   147   │   9    │
+│     7080     │        XYZ         │    UMPIRE     │   147   │   9    │
+│     7084     │  BWL[Pat Cummins]  │    BOWLER     │   147   │   9    │
+│     7091     │  Suryakumar Yadav  │    STRIKER    │   147   │   9    │
+│     7110     │        XYZ         │    UMPIRE     │   147   │   9    │
+│     7115     │  BWL[Pat Cummins]  │    BOWLER     │   147   │   9    │
+│     7128     │  Suryakumar Yadav  │    STRIKER    │   147   │   9    │
+│     7138     │     Tim David      │    FIELDER    │   147   │   9    │
+│     7149     │    Virat Kohli     │  NON-STRIKER  │   147   │   9    │
+│     7194     │        XYZ         │    UMPIRE     │   147   │   9    │
+│     7206     │  BWL[Pat Cummins]  │    BOWLER     │   148   │   9    │
+│     7219     │  Suryakumar Yadav  │    STRIKER    │   148   │   9    │
+│     7240     │        XYZ         │    UMPIRE     │   148   │   9    │
+│     7244     │  BWL[Pat Cummins]  │    BOWLER     │   148   │   9    │
+│     7257     │  Suryakumar Yadav  │    STRIKER    │   148   │   9    │
+│     7276     │        XYZ         │    UMPIRE     │   148   │   9    │
+│     7281     │  BWL[Pat Cummins]  │    BOWLER     │   148   │   9    │
+│     7293     │  Suryakumar Yadav  │    STRIKER    │   148   │   9    │
+│     7309     │  Matthew Wade(WK)  │    FIELDER    │   148   │   9    │
+│     7315     │    Virat Kohli     │  NON-STRIKER  │   148   │   9    │
+│     7365     │        XYZ         │    UMPIRE     │   148   │   9    │
+│     7393     │  BWL[Pat Cummins]  │    BOWLER     │   149   │   9    │
+│     7408     │  Suryakumar Yadav  │    STRIKER    │   149   │   9    │
+│     7418     │   Mitchell Starc   │    FIELDER    │   149   │   9    │
+│     7468     │        XYZ         │    UMPIRE     │   149   │   9    │
+│     7473     │  BWL[Pat Cummins]  │    BOWLER     │   153   │   9    │
+│     7488     │  Suryakumar Yadav  │    STRIKER    │   153   │   9    │
+│     7507     │    David Warner    │    FIELDER    │   153   │   9    │
+│     7579     │        XYZ         │    UMPIRE     │   153   │   9    │
+│     7584     │  BWL[Pat Cummins]  │    BOWLER     │   159   │   9    │
+│     7603     │  Suryakumar Yadav  │    STRIKER    │   159   │   9    │
+│     7614     │    David Warner    │    FIELDER    │   159   │   9    │
+│     7669     │        XYZ         │    UMPIRE     │   159   │   9    │
+│     7675     │  BWL[Pat Cummins]  │    BOWLER     │   165   │   9    │
+│     7680     │  Suryakumar Yadav  │    STRIKER    │   165   │   9    │
+│     7693     │   Josh Hazlewood   │    FIELDER    │   165   │   9    │
+│     7707     │    Virat Kohli     │  NON-STRIKER  │   165   │   9    │
+│     7746     │        XYZ         │    UMPIRE     │   165   │   9    │
+│     7771     │  BWL[Pat Cummins]  │    BOWLER     │   166   │   9    │
+│     7776     │  Suryakumar Yadav  │    STRIKER    │   166   │   9    │
+│     7801     │        XYZ         │    UMPIRE     │   166   │   9    │
+│     7808     │  BWL[Pat Cummins]  │    BOWLER     │   166   │   9    │
+│     7814     │  Suryakumar Yadav  │    STRIKER    │   166   │   9    │
+│     7831     │        XYZ         │    UMPIRE     │   166   │   9    │
+│     7835     │  BWL[Pat Cummins]  │    BOWLER     │   166   │   9    │
+│     7844     │  Suryakumar Yadav  │    STRIKER    │   166   │   9    │
+│     7862     │        XYZ         │    UMPIRE     │   166   │   9    │
+│     7867     │  BWL[Pat Cummins]  │    BOWLER     │   166   │   9    │
+│     7881     │  Suryakumar Yadav  │    STRIKER    │   166   │   9    │
+│     7902     │     Tim David      │    FIELDER    │   166   │   9    │
+│     7943     │        XYZ         │    UMPIRE     │   166   │   9    │
+└──────────────┴────────────────────┴───────────────┴─────────┴────────┘
+
+   FINAL MATCH RESULT   
+┌──────────────────────┐
+│    Match Summary     │
+├──────────────────────┤
+│  Australia : 170/8   │
+│    India : 172/9     │
+│  *** India WON! ***  │
+└──────────────────────┘
