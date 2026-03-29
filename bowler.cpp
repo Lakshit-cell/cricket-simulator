@@ -13,7 +13,7 @@ void* bowler_thread(void* arg) {
         while (true) {
                 pthread_mutex_lock(&state_mx);
                 while (state != 1 && !innings_done) {
-                      //  pthread_cond_signal(&umpire_cv);
+                      
                         pthread_cond_wait(&bowler_cv, &state_mx);
                 }
 

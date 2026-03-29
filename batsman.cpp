@@ -1,3 +1,4 @@
+
 #include "headers.hpp"
 void do_running_deadlock_sim(int batsman_id, bool is_striker) {
         NodeType current_thread = is_striker ? THREAD_STRIKER : THREAD_NON_STRIKER;
@@ -7,27 +8,20 @@ void do_running_deadlock_sim(int batsman_id, bool is_striker) {
         dispatch_semaphore_t sem_first = is_striker ? sem_A : sem_B;
         dispatch_semaphore_t sem_second = is_striker ? sem_B : sem_A;
 
-        /* --- Step 1: Request first resource (request edge: thread → res_first) --- */
         update_rag_request(current_thread, res_first);
 
-        /* --- Step 2: Spin-try to acquire first semaphore --- */
         dispatch_semaphore_wait(sem_first, DISPATCH_TIME_FOREVER);
-        /* sem_first is now held */
-
-        /* --- Step 3: Convert request → assignment edge --- */
+        
         update_rag_reverse(current_thread, res_first);
 
-        /* --- Step 4: Request second resource (request edge: thread → res_second) --- */
         update_rag_request(current_thread, res_second);
 
-        /* --- Step 5: Spin-try to acquire second semaphore --- */
         dispatch_semaphore_wait(sem_second, DISPATCH_TIME_FOREVER);
-        /* Both sems now held */
         if (bats[striker].dismissed == 1) {
                 dispatch_semaphore_signal(sem_second);
                 return;
         }
-        /* --- Step 6: Convert second request → assignment --- */
+
         update_rag_reverse(current_thread, res_second);
 
         update_rag_release(current_thread, res_second);
@@ -36,13 +30,38 @@ void do_running_deadlock_sim(int batsman_id, bool is_striker) {
         dispatch_semaphore_signal(sem_first);
 }
 
+int next_batsman() {
+        if (m == 1) {
+                for (int i = NUM_PLAYERS - 1; i >= 0; i--) {
+                        if (bats[i].played)
+                                continue;
+                        bats[i].played = 1;
+                        return i;
+                }
+        }
+        if (m == 2) {
+                for (int i = 0; i < NUM_PLAYERS; i++) {
+                        if (bats[i].played)
+                                continue;
+                        bats[i].played = 1;
+                        return i;
+                }
+        }
+        return 0;
+}
+
+
 void* batsman_thread(void* arg) {
         int idx = *(int*)arg;
         BatsmanData* me = &bats[idx];
-
+        pthread_mutex_lock(&sync_mx);
+        while(idx!=next_batting && !innings_done && idx != 0 && idx!= 1){
+                pthread_cond_wait(&crease_cv , &sync_mx);
+        }
+        pthread_mutex_unlock(&sync_mx);
         dispatch_semaphore_wait(crease_sm, DISPATCH_TIME_FOREVER);
+        bats[idx].wait_time = legal_ball;
 
-        // Try striker crease
         if (dispatch_semaphore_wait(crease0_sm, DISPATCH_TIME_NOW) == 0) {
                 striker = idx;
                 while (true) {
@@ -55,6 +74,7 @@ void* batsman_thread(void* arg) {
                         striker_ready = false;
 
                         if (innings_done) {
+                                
                                 pthread_mutex_unlock(&state_mx);
                                 dispatch_semaphore_signal(crease0_sm);
                                 break;
@@ -63,7 +83,7 @@ void* batsman_thread(void* arg) {
                         local_striker = striker;
                         local_non_striker = non_striker;
 
-                        umpire_decision = batprob(&me->rnseed);
+                        umpire_decision = batprob(&me->rnseed,local_striker);
 
                         if (umpire_decision == DOT) {
                                 state = 0;
@@ -82,45 +102,30 @@ void* batsman_thread(void* arg) {
                                 pthread_cond_wait(&batsman_cv, &state_mx);
 
                                 if (runout_initiated) {
-                                        /*
-                                         * Fielder set STATE_RUNNING and woke us.
-                                         * Run the deadlock sim WITHOUT holding state_mx so the
-                                         * non-striker thread (and fielder cond_wait) can proceed.
-                                         */
+
                                         pthread_mutex_unlock(&state_mx);
                                         do_running_deadlock_sim(striker, true);
 
-                                        /*
-                                         * Re-acquire the lock, mark done, and broadcast so the
-                                         * fielder's cond_wait (waiting for both _done flags) wakes.
-                                         */
+
                                         pthread_mutex_lock(&state_mx);
                                         striker_running_done = true;
-                                        //     pthread_mutex_unlock(&state_mx);
-                                        /*
-                                         * Wait until the fielder has finished resolving the runout
-                                         * (it clears runout_initiated after setting state=0 and
-                                         * signalling the umpire).
-                                         */
+
                                         while (runout_initiated && !innings_done) {
                                                 pthread_cond_wait(&batsman_cv, &state_mx);
                                         }
                                         pthread_mutex_unlock(&state_mx);
 
-                                        /* Check if we were the dismissed batsman */
+
                                         if (bats[striker].dismissed) {
                                                 dispatch_semaphore_signal(crease0_sm);
                                                 break;
                                         }
 
-                                        /*
-                                         * Survived runout — fielder already set state=0 and woke
-                                         * the umpire.  Loop back to wait for state==2 (next ball).
-                                         */
-                                        continue; /* back to top of while(true) */
+        
+                                        continue; 
                                 }
 
-                                // Fix: Check both the dismissed flag AND the umpire decision directly
+
                                 if (bats[striker].dismissed || umpire_decision == CATCHOUT) {
                                         state = 0;
                                         pthread_cond_signal(&umpire_cv);
@@ -161,17 +166,15 @@ void* batsman_thread(void* arg) {
                                 pthread_cond_wait(&batsman_cv, &state_mx);
                         }
                         pthread_mutex_unlock(&state_mx);
-                        /* FIX: lock is released exactly once here — the original code had
-                         * a spurious second unlock that caused undefined behaviour. */
 
-                        /* If we were the runout victim, exit */
                         if (bats[non_striker].dismissed) {
                                 dispatch_semaphore_signal(crease1_sm);
                                 break;
                         }
                 }
         }
-
+        next_batting = next_batsman();
+        pthread_cond_broadcast(&crease_cv);
         dispatch_semaphore_signal(crease_sm);
 
         return NULL;

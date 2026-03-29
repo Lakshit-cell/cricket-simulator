@@ -18,16 +18,7 @@ int next_bowler(void) {
         }
         return i;
 }
-// int next_batsman(void) {
-//         int best = -1, be = 9999;
-//         for (int i = 0; i < NUM_PLAYERS; i++) {
-//                 if (!bats[i].active && !bats[i].dismissed && bats[i].est_balls < be) {
-//                         be = bats[i].est_balls;
-//                         best = i;
-//                 }
-//         }
-//         return best;
-// }
+
 void* umpire_thread(void* arg) {
         while (true) {
                 pthread_mutex_lock(&state_mx);

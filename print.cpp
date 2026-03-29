@@ -120,7 +120,6 @@ std::string get_ball_log_str(bool use_color) {
 void print_and_export_report() {
         std::string filename = "match_report_" + CricketUtils::get_timestamp() + ".txt";
 
-        // THE FIX: Added std::ios::app right here!
         std::ofstream file(filename, std::ios::app);
 
         CricketTable bat_tbl("BATTING SCORECARD", {"Name", "Runs", "Balls", "S/R"});
@@ -188,25 +187,23 @@ void print_gantt(void) {
                 return;
         }
 
-        // Initialize the table with headers matching your GanttEntry struct
         CricketTable gantt_tbl("GANTT CHART (Pitch Resource Timeline)",
                                {"Tick (µs)", "Thread", "Event", "Score", "Wkts"});
 
-        // Populate the table with global gantt array data
         for (int i = 0; i < gantt_n; i++) {
                 gantt_tbl.add_row({std::to_string(gantt[i].tick), gantt[i].thread, gantt[i].event,
                                    std::to_string(gantt[i].score), std::to_string(gantt[i].wickets)});
         }
 
-        // Print to console with color support
+
         std::cout << gantt_tbl.str(true);
 
-        // Optional: Export to the match report file
+
         std::string filename = "match_report_" + CricketUtils::get_timestamp() + ".txt";
         std::ofstream file(filename, std::ios::app);
         if (file.is_open()) {
                 file << "\nRESOURCE TIMELINE LOG:\n";
-                file << gantt_tbl.str(false);  // No ANSI colors for the file
+                file << gantt_tbl.str(false); 
                 file.close();
         }
 }

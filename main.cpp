@@ -18,6 +18,7 @@ void init_batting_team(const char* names[]) {
                                         .runs = 0,
                                         .balls_faced = 0,
                                         .dismissed = 0,
+                                        .played=0,
                                         .rnseed = (unsigned int)(_ts.tv_nsec ^ (unsigned)i * 2654435761u)};
                 strncpy(bats[i].name, names[i], 31);
         }
@@ -78,6 +79,8 @@ int run_innings(const char* bat_names[], const char* bowl_names[], const char* b
         init_batting_team(bat_names);
         init_bowling_team(bowl_names);
 
+        bats[0].played = 1;      
+        bats[1].played = 1;
         pthread_t bat_tid[NUM_PLAYERS];
         pthread_t fld_tid[NUM_PLAYERS];
         pthread_t bowl_tid;
@@ -85,9 +88,7 @@ int run_innings(const char* bat_names[], const char* bowl_names[], const char* b
         int bat_idx[NUM_PLAYERS];
         int fld_idx[NUM_PLAYERS];
         int bowl_idx = 0;
-        // for(int i = 0;i< NUM_PLAYERS;i++) {
-        //         std::cout<<field[i].name<<" (Priority: "<<field[i].priority<<")\n";
-        // }
+        
 
         for (int i = 0; i < NUM_PLAYERS; i++) {
                 fld_idx[i] = i;
@@ -111,7 +112,6 @@ int run_innings(const char* bat_names[], const char* bowl_names[], const char* b
 
         pthread_join(umpire_tid, NULL);
 
-        // CAPTURE STATS LOCALLY
         int final_score = score;
         int final_wickets = wickets;
 
@@ -131,9 +131,13 @@ int run_innings(const char* bat_names[], const char* bowl_names[], const char* b
         dispatch_release(crease_sm);
         dispatch_release(crease0_sm);
         dispatch_release(crease1_sm);
-        // Use local captures for consistent report printing
         print_and_export_report();
         print_gantt();
+        int sum = 0;
+        for(int i = 3;i<8;++i){
+                sum+=(bats[i].wait_time == 0) ? legal_ball : (bats[i].wait_time);
+        }
+        std::cout<<"Average Wait Time : "<<sum/double(5);
 
         return final_score;
 }
@@ -144,7 +148,8 @@ int main(void) {
         unsigned int main_seed =
             (unsigned int)(_seed_ts.tv_sec ^ _seed_ts.tv_nsec ^ (unsigned long)getpid() * 2654435761u);
         srand(main_seed);
-
+        printf("Enter 1 for SJF and 2 for FCFS\n");
+        std::cin>>m;
         crease_sm = dispatch_semaphore_create(2);
         crease0_sm = dispatch_semaphore_create(1);
         crease1_sm = dispatch_semaphore_create(1);
@@ -153,17 +158,17 @@ int main(void) {
         printf("|     T20 WC 2026 Cricket Simulator  --  OS CSC-204   |\n");
         printf("+------------------------------------------------------+\n");
 
-        /* India batting order */
+
         const char* india_bat[NUM_PLAYERS] = {"Rohit Sharma",   "Virat Kohli",     "Suryakumar Yadav", "KL Rahul",
                                               "Hardik Pandya",  "Ravindra Jadeja", "MS Dhoni",         "Axar Patel",
                                               "Jasprit Bumrah", "Mohammed Siraj",  "Arshdeep Singh"};
 
-        /* Australia batting order */
+
         const char* aus_bat[NUM_PLAYERS] = {"Travis Head",    "David Warner", "Steven Smith",  "Glenn Maxwell",
                                             "Marcus Stoinis", "Tim David",    "Matthew Wade",  "Pat Cummins",
                                             "Mitchell Starc", "Adam Zampa",   "Josh Hazlewood"};
 
-        /* Bowling lineups */
+
         const char* india_bowl[NUM_PLAYERS] = {
             "Mohammed Siraj", "Jasprit Bumrah",   "Arshdeep Singh", "Hardik Pandya", "Ravindra Jadeja", "Rohit Sharma",
             "Virat Kohli",    "Suryakumar Yadav", "KL Rahul",       "MS Dhoni(WK)",  "Axar Patel"};
@@ -171,7 +176,7 @@ int main(void) {
                                              "Glenn Maxwell", "Marcus Stoinis", "Tim David",       "David Warner",
                                              "Travis Head",   "Steven Smith",   "Matthew Wade(WK)"};
 
-        /* -- TOSS -- */
+
         int toss_winner = rand() % 2;
         const char* winner_name = toss_winner ? "Australia" : "India";
         int bat_choice = rand() % 2;
