@@ -65,7 +65,7 @@ xcode-select --install
 
 ```bash
 git clone https://github.com/Lakshit-cell/cricket-simulator/
-cd <your-repo>
+cd cricket-simulator
 ```
 
 ### 2. Compile
