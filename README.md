@@ -154,6 +154,12 @@ Batting order follows **FCFS** (First Come, First Served) by default — batsmen
 
 ---
 
+## Demo Video
+
+- https://drive.google.com/drive/folders/1Xc51o_HVh1GlRT9n0hwFfPBO7fbVWa8V?usp=sharing
+
+---
+
 ## 👥 Team
 
 Built as part of **CSC-204 Operating Systems** coursework.
