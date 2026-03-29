@@ -73,7 +73,7 @@ cd cricket-simulator
 ```bash
 clang++ -std=c++17 -pthread \
     main.cpp batsman.cpp bowler.cpp fielder.cpp umpire.cpp \
-    caseworks.cpp utility.cpp gantt.cpp print.cpp globals.cpp \
+    utility.cpp gantt.cpp print.cpp globals.cpp \
     -framework CoreFoundation \
     -o cricket_sim
 ```
